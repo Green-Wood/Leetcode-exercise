@@ -52,10 +52,6 @@ public class mergeKLists {
         return res.next;
     }
 
-
-
-
-
     public static void main(String[] args){
 
     }
