@@ -11,7 +11,7 @@ HINT: 分治法，最大子序列和只存在三种情况
     3、在右边子序列
 复杂度：n*log(n)
 
-更优秀的算法收录在Dynamic programming中，其复杂度为n
+更优秀的算法收录在DP中，其复杂度为n
  */
 
 public class maxSumSubArray {

@@ -1,6 +1,5 @@
 package Array;
 
-import java.util.Arrays;
 
 /*
 求一个数组的逆序数
