@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/FlipStringToMonotoneIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/ListReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/ListReverseTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array/reverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array/reverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Tree/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Tree/LevelOrder.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,28 +26,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="82" />
+          <entry key="java" value="84" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="84" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4520" />
+          <entry key="java" value="5190" />
           <entry key="md" value="90" />
-          <entry key="txt" value="74" />
+          <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4520" />
+          <entry key="JAVA" value="5190" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="74" />
+          <entry key="PLAIN_TEXT" value="75" />
         </counts>
       </usages-collector>
     </session>
@@ -112,11 +108,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/LargestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="149">
               <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/GenerateParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,8 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/FindPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/HappyEnd.java" />
         <option value="$PROJECT_DIR$/src/Exercises/HappyNumber.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MaxPQ.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MinStack.java" />
@@ -196,6 +211,8 @@
         <option value="$PROJECT_DIR$/src/List/ListReverse.java" />
         <option value="$PROJECT_DIR$/src/List/ListReverseTwo.java" />
         <option value="$PROJECT_DIR$/src/Array/LargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/GenerateParentheses.java" />
       </list>
     </option>
   </component>
@@ -233,7 +250,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541426228038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541472053655" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -269,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestNumber">
+  <component name="RunManager" selected="Application.GenerateParentheses">
     <configuration name="AdvantageShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.AdvantageShuffle" />
       <module name="Java" />
@@ -289,6 +306,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.GenerateParentheses" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,33 +352,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getKthPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.getKthPermutation" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.getKthPermutation" />
       <item itemvalue="Application.LongestConsecutiveSequence" />
       <item itemvalue="Application.AdvantageShuffle" />
       <item itemvalue="Application.FlipStringToMonotoneIncreasing" />
       <item itemvalue="Application.LargestNumber" />
+      <item itemvalue="Application.GenerateParentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.FlipStringToMonotoneIncreasing" />
         <item itemvalue="Application.AdvantageShuffle" />
         <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.getKthPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +390,7 @@
       <workItem from="1541316604232" duration="28000" />
       <workItem from="1541333514018" duration="219000" />
       <workItem from="1541336847379" duration="3501000" />
-      <workItem from="1541419036941" duration="4066000" />
+      <workItem from="1541419036941" duration="7121000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -410,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541298051002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Nov 5, 2018, 22:01">
+      <created>1541426534014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541426534014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20630000" />
+    <option name="totallyTimeSpent" value="23685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -461,7 +485,8 @@
     <MESSAGE value="get Kth permutation" />
     <MESSAGE value="Longest Consecutive Sequence" />
     <MESSAGE value="2018 11.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018 11.4" />
+    <MESSAGE value="Nov 5, 2018, 22:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 5, 2018, 22:01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,20 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/myPow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/sortColors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -828,8 +839,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/LargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="149">
           <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
