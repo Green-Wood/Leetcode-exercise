@@ -15,6 +15,8 @@ package Array;
 [1, 4, 3, 2] 的逆序数为3
 
 HINT: MergeSort
+
+相似的方法见ImportantReverse
  */
 public class reverseNumber {
     private int[] temp;
@@ -35,11 +37,11 @@ public class reverseNumber {
         int i = lo, j = mid + 1;
         int t = lo;
         while (i <= mid && j <= hi){
-            if (nums[i] < nums[j]){
+            if (nums[i] <= nums[j]){
                 temp[t++] = nums[i++];
             } else {
                 temp[t++] = nums[j++];
-                count += mid - i + 1;               // 累积逆序数
+                count += mid - i + 1;               // 累积逆序数，比j大的且在前半部的数有mid - i + 1个
             }
         }
         while (i <= mid) temp[t++] = nums[i++];
@@ -48,6 +50,6 @@ public class reverseNumber {
     }
 
     public static void main(String[] args){
-        System.out.println(new reverseNumber().count(new int[]{1, 4, 3, 2}));
+        System.out.println(new reverseNumber().count(new int[]{1, 2, 3, 1, 3}));
     }
 }
