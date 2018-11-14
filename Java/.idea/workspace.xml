@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,40 +16,40 @@
     <session id="-558190374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.0" value="8" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="99" />
+          <entry key="java" value="101" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="99" />
+          <entry key="JAVA" value="101" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12825" />
+          <entry key="java" value="13866" />
           <entry key="md" value="90" />
-          <entry key="txt" value="192" />
+          <entry key="txt" value="229" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12825" />
+          <entry key="JAVA" value="13866" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="192" />
+          <entry key="PLAIN_TEXT" value="229" />
         </counts>
       </usages-collector>
     </session>
@@ -57,22 +57,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-166">
+              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="100" column="82" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-235">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -159,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StructureDesigning/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/Trie.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/WordDictionary.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeNode.java" />
@@ -210,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/Array/reverseNumber.java" />
         <option value="$PROJECT_DIR$/src/Array/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java" />
+        <option value="$PROJECT_DIR$/src/DP/MaximalRectangle.java" />
       </list>
     </option>
   </component>
@@ -241,24 +250,18 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542074613405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542182230822" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -283,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimalNumberOfRefueling">
+  <component name="RunManager" selected="Application.MaximalRectangle">
     <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.BeautifulArrangement" />
       <module name="Java" />
@@ -310,8 +313,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimalNumberOfRefueling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.MinimalNumberOfRefueling" />
+    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MaximalRectangle" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -323,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.PermutationUnique" />
+    <configuration name="MinimalNumberOfRefueling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MinimalNumberOfRefueling" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +353,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PermutationUnique" />
       <item itemvalue="Application.BeautifulArrangement" />
       <item itemvalue="Application.reverseNumber" />
       <item itemvalue="Application.ImportantReverse" />
       <item itemvalue="Application.MinimalNumberOfRefueling" />
+      <item itemvalue="Application.MaximalRectangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximalRectangle" />
         <item itemvalue="Application.MinimalNumberOfRefueling" />
         <item itemvalue="Application.ImportantReverse" />
         <item itemvalue="Application.reverseNumber" />
         <item itemvalue="Application.BeautifulArrangement" />
-        <item itemvalue="Application.PermutationUnique" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +398,8 @@
       <workItem from="1541903772401" duration="3671000" />
       <workItem from="1541987705189" duration="3243000" />
       <workItem from="1542026063967" duration="31000" />
-      <workItem from="1542028685658" duration="2830000" />
+      <workItem from="1542028685658" duration="3190000" />
+      <workItem from="1542158389641" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -488,17 +492,24 @@
       <option name="project" value="LOCAL" />
       <updated>1541992749502</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04">
+      <created>1542074655261</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542074655261</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41969000" />
+    <option name="totallyTimeSpent" value="44023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28826895" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29256082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,17 +558,12 @@
     <MESSAGE value="PermutationUnique 避免重复的全排列&#10;Nov 10, 2018, 19:39" />
     <MESSAGE value="BeautifulArrangement 能够整除的全排列&#10;Nov 11, 2018, 11:36" />
     <MESSAGE value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
+    <MESSAGE value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DP/CoinChange2.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Array/LargestNumber.java</url>
           <line>36</line>
@@ -576,17 +582,16 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/MaximalRectangle.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/HouseRobber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/LongestInceeasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -662,13 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -830,9 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,9 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,9 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,6 +856,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -923,27 +936,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+        <state relative-caret-position="-166">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="100" column="82" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-235">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>
