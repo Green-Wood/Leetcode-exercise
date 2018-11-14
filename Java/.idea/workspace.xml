@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/MaximalSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,46 +29,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="101" />
+          <entry key="java" value="102" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="101" />
+          <entry key="JAVA" value="102" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13866" />
+          <entry key="java" value="14417" />
           <entry key="md" value="90" />
-          <entry key="txt" value="229" />
+          <entry key="txt" value="252" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13866" />
+          <entry key="JAVA" value="14417" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="229" />
+          <entry key="PLAIN_TEXT" value="252" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="456">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -168,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StructureDesigning/Trie.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/WordDictionary.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/BSTIterator.java" />
@@ -219,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/Array/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java" />
         <option value="$PROJECT_DIR$/src/DP/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/DP/MaximalSquare.java" />
       </list>
     </option>
   </component>
@@ -250,6 +248,12 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +265,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542182230822" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542183835217" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -286,20 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximalRectangle">
-    <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.BeautifulArrangement" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaximalSquare">
     <configuration name="ImportantReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.ImportantReverse" />
       <module name="Java" />
@@ -315,6 +306,19 @@
     </configuration>
     <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.MaximalRectangle" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MaximalSquare" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -353,19 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BeautifulArrangement" />
       <item itemvalue="Application.reverseNumber" />
       <item itemvalue="Application.ImportantReverse" />
       <item itemvalue="Application.MinimalNumberOfRefueling" />
       <item itemvalue="Application.MaximalRectangle" />
+      <item itemvalue="Application.MaximalSquare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximalSquare" />
         <item itemvalue="Application.MaximalRectangle" />
         <item itemvalue="Application.MinimalNumberOfRefueling" />
         <item itemvalue="Application.ImportantReverse" />
         <item itemvalue="Application.reverseNumber" />
-        <item itemvalue="Application.BeautifulArrangement" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +403,7 @@
       <workItem from="1541987705189" duration="3243000" />
       <workItem from="1542026063967" duration="31000" />
       <workItem from="1542028685658" duration="3190000" />
-      <workItem from="1542158389641" duration="1694000" />
+      <workItem from="1542158389641" duration="2845000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -499,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542074655261</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57">
+      <created>1542182268168</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542182268168</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44023000" />
+    <option name="totallyTimeSpent" value="45174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -559,7 +570,8 @@
     <MESSAGE value="BeautifulArrangement 能够整除的全排列&#10;Nov 11, 2018, 11:36" />
     <MESSAGE value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
     <MESSAGE value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
+    <MESSAGE value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -582,23 +594,10 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DP/MaximalRectangle.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/LongestInceeasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/LongestPalindromeSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -945,8 +944,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="456">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>

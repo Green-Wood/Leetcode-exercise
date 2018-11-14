@@ -16,6 +16,8 @@ LeetCode No: 85 (CN)
   ["1","0","0","1","0"]
 ]
 输出: 6
+
+相类似的题目：MaximalSquare
  */
 public class MaximalRectangle {
     public int maximalRectangle(char[][] matrix) {
