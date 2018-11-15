@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MajorityNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,40 +16,40 @@
     <session id="-558190374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="102" />
+          <entry key="java" value="106" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="102" />
+          <entry key="JAVA" value="106" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14417" />
+          <entry key="java" value="14739" />
           <entry key="md" value="90" />
-          <entry key="txt" value="252" />
+          <entry key="txt" value="275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14417" />
+          <entry key="JAVA" value="14739" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="252" />
+          <entry key="PLAIN_TEXT" value="275" />
         </counts>
       </usages-collector>
     </session>
@@ -58,37 +57,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-166">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="288">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="264">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/MajorityNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="456">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/EggsFall.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/LevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -105,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/PermutationUnique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="456">
               <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
@@ -166,8 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StructureDesigning/WordDictionary.java" />
-        <option value="$PROJECT_DIR$/src/Tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/BSTIterator.java" />
         <option value="$PROJECT_DIR$/src/List/ListNode.java" />
         <option value="$PROJECT_DIR$/src/DP/BrustBallon.java" />
@@ -217,6 +214,8 @@
         <option value="$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java" />
         <option value="$PROJECT_DIR$/src/DP/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/DP/MaximalSquare.java" />
+        <option value="$PROJECT_DIR$/src/Tree/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/Array/MajorityNumber.java" />
       </list>
     </option>
   </component>
@@ -236,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,20 +252,19 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542183835217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542267763866" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -290,7 +289,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximalSquare">
+  <component name="RunManager" selected="Application.DeleteNode">
+    <configuration name="DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.DeleteNode" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImportantReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.ImportantReverse" />
       <module name="Java" />
@@ -343,33 +355,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.reverseNumber" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.reverseNumber" />
       <item itemvalue="Application.ImportantReverse" />
       <item itemvalue="Application.MinimalNumberOfRefueling" />
       <item itemvalue="Application.MaximalRectangle" />
       <item itemvalue="Application.MaximalSquare" />
+      <item itemvalue="Application.DeleteNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteNode" />
         <item itemvalue="Application.MaximalSquare" />
         <item itemvalue="Application.MaximalRectangle" />
         <item itemvalue="Application.MinimalNumberOfRefueling" />
         <item itemvalue="Application.ImportantReverse" />
-        <item itemvalue="Application.reverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +402,10 @@
       <workItem from="1541987705189" duration="3243000" />
       <workItem from="1542026063967" duration="31000" />
       <workItem from="1542028685658" duration="3190000" />
-      <workItem from="1542158389641" duration="2845000" />
+      <workItem from="1542158389641" duration="3334000" />
+      <workItem from="1542239956063" duration="104000" />
+      <workItem from="1542241926840" duration="1193000" />
+      <workItem from="1542267470440" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -510,17 +512,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542182268168</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="MaximalSquare   最大矩形面积&#10;Nov 14, 2018, 16:24">
+      <created>1542183865430</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542183865430</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45174000" />
+    <option name="totallyTimeSpent" value="47312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29256082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30543634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -571,7 +580,8 @@
     <MESSAGE value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
     <MESSAGE value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
     <MESSAGE value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
+    <MESSAGE value="MaximalSquare   最大矩形面积&#10;Nov 14, 2018, 16:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximalSquare   最大矩形面积&#10;Nov 14, 2018, 16:24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -598,20 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/LongestPalindromeSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/MinimumPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -666,13 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -774,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/FlipStringToMonotoneIncreasing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -876,9 +858,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -886,6 +879,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -898,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/PermutationUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="456">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="e#219#220#0" expanded="true" />
@@ -935,24 +942,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/CoinChange2.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/DeleteNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="437">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MajorityNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/MaximalSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
