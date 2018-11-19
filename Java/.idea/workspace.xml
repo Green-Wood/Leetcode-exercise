@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java" afterDir="false" />
+    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)">
+      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,40 +19,40 @@
     <session id="-558190374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="13" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="110" />
+          <entry key="java" value="114" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="110" />
+          <entry key="JAVA" value="114" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16265" />
+          <entry key="java" value="18213" />
           <entry key="md" value="90" />
-          <entry key="txt" value="311" />
+          <entry key="txt" value="558" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16265" />
+          <entry key="JAVA" value="18213" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="311" />
+          <entry key="PLAIN_TEXT" value="558" />
         </counts>
       </usages-collector>
     </session>
@@ -57,22 +60,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2712">
-              <caret line="113" column="93" selection-start-line="113" selection-start-column="93" selection-end-line="113" selection-end-column="93" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+            <state relative-caret-position="249">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,22 +72,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1416">
-              <caret line="59" column="28" lean-forward="true" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            <state relative-caret-position="1032">
+              <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/LevelOrder.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="96">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -113,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/PermutationUnique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="456">
               <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
@@ -177,10 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/Floyd_Warshell.java" />
-        <option value="$PROJECT_DIR$/src/DP/HouseRobber.java" />
-        <option value="$PROJECT_DIR$/src/DP/LongestInceeasingSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/DP/LongestPalindromeSubstring.java" />
         <option value="$PROJECT_DIR$/src/DP/maxSubSum.java" />
         <option value="$PROJECT_DIR$/src/DP/MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/DP/WordBreak.java" />
@@ -228,6 +226,10 @@
         <option value="$PROJECT_DIR$/src/Array/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java" />
         <option value="$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestNumberInMultiplyTable.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" />
       </list>
     </option>
   </component>
@@ -280,20 +282,20 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="KthSmallest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542548157083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542598014855" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -318,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthSmallestPrimeFraction">
+  <component name="RunManager" selected="Application.KthSmallestInMultiplyTable">
     <configuration name="CountSmallerNumberAfterSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.CountSmallerNumberAfterSelf" />
       <module name="Java" />
@@ -332,12 +334,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.DeleteNode" />
+    <configuration name="KthSmallestInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestInMatrix" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthSmallestInMultiplyTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestInMultiplyTable" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthSmallestPairsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestPairsSum" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,37 +374,11 @@
       </method>
     </configuration>
     <configuration name="KthSmallestPrimeFraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallestPrimeFraction" />
+      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestPrimeFraction" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.MaximalRectangle" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.MaximalSquare" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,19 +387,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaximalRectangle" />
-      <item itemvalue="Application.MaximalSquare" />
-      <item itemvalue="Application.DeleteNode" />
       <item itemvalue="Application.CountSmallerNumberAfterSelf" />
       <item itemvalue="Application.KthSmallestPrimeFraction" />
+      <item itemvalue="Application.KthSmallestInMatrix" />
+      <item itemvalue="Application.KthSmallestPairsSum" />
+      <item itemvalue="Application.KthSmallestInMultiplyTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthSmallestInMultiplyTable" />
+        <item itemvalue="Application.KthSmallestPairsSum" />
+        <item itemvalue="Application.KthSmallestInMatrix" />
         <item itemvalue="Application.KthSmallestPrimeFraction" />
         <item itemvalue="Application.CountSmallerNumberAfterSelf" />
-        <item itemvalue="Application.DeleteNode" />
-        <item itemvalue="Application.MaximalSquare" />
-        <item itemvalue="Application.MaximalRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +440,8 @@
       <workItem from="1542283036108" duration="12000" />
       <workItem from="1542336264956" duration="623000" />
       <workItem from="1542424828323" duration="2235000" />
-      <workItem from="1542515450508" duration="1794000" />
+      <workItem from="1542515450508" duration="2236000" />
+      <workItem from="1542592753968" duration="4279000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -566,17 +569,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542426632372</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization">
+      <created>1542548178331</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1542548178331</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52012000" />
+    <option name="totallyTimeSpent" value="56733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32260373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -630,7 +640,8 @@
     <MESSAGE value="MaximalSquare   最大矩形面积&#10;Nov 14, 2018, 16:24" />
     <MESSAGE value="MajorityNumber 众数&#10;Nov 15, 2018, 19:54" />
     <MESSAGE value="CountSmallerNumberAfterSelf  计算右侧小于当前元素的个数&#10;Nov 17, 2018, 11:50" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountSmallerNumberAfterSelf  计算右侧小于当前元素的个数&#10;Nov 17, 2018, 11:50" />
+    <MESSAGE value="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,25 +664,22 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/Array/threeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/threeSumClosest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="962">
@@ -934,8 +942,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2712">
+        <state relative-caret-position="2664">
           <caret line="113" column="93" selection-start-line="113" selection-start-column="93" selection-end-line="113" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -958,7 +976,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/PermutationUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="456">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="e#219#220#0" expanded="true" />
@@ -995,22 +1013,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java">
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        <state relative-caret-position="249">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java">
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
-          <caret line="59" column="28" lean-forward="true" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>

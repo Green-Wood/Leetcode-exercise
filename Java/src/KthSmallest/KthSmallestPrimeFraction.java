@@ -1,4 +1,4 @@
-package Exercises;
+package KthSmallest;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
