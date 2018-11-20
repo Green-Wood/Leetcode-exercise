@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)">
-      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java" afterDir="false" />
+    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,38 +16,38 @@
     <session id="-558190374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
-          <entry key="project.open.time.0" value="13" />
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.0" value="14" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="114" />
+          <entry key="java" value="115" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="114" />
+          <entry key="JAVA" value="115" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18213" />
+          <entry key="java" value="18765" />
           <entry key="md" value="90" />
           <entry key="txt" value="558" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18213" />
+          <entry key="JAVA" value="18765" />
           <entry key="Markdown" value="90" />
           <entry key="PLAIN_TEXT" value="558" />
         </counts>
@@ -60,10 +57,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="552">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,15 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1032">
-              <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -88,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="-676">
               <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
@@ -97,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="261">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -179,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/maxSubSum.java" />
         <option value="$PROJECT_DIR$/src/DP/MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/DP/WordBreak.java" />
         <option value="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" />
@@ -226,10 +217,11 @@
         <option value="$PROJECT_DIR$/src/Array/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java" />
         <option value="$PROJECT_DIR$/src/Exercises/KthSmallestPrimeFraction.java" />
-        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" />
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestNumberInMultiplyTable.java" />
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java" />
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" />
       </list>
     </option>
   </component>
@@ -266,6 +258,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,14 +282,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542598014855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542680848601" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -320,13 +312,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthSmallestInMultiplyTable">
-    <configuration name="CountSmallerNumberAfterSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CountSmallerNumberAfterSelf" />
+  <component name="RunManager" selected="Application.KthSmallestDistance">
+    <configuration name="KthSmallestDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestDistance" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountSmallerNumberAfterSelf" />
       <item itemvalue="Application.KthSmallestPrimeFraction" />
       <item itemvalue="Application.KthSmallestInMatrix" />
       <item itemvalue="Application.KthSmallestPairsSum" />
       <item itemvalue="Application.KthSmallestInMultiplyTable" />
+      <item itemvalue="Application.KthSmallestDistance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthSmallestDistance" />
         <item itemvalue="Application.KthSmallestInMultiplyTable" />
         <item itemvalue="Application.KthSmallestPairsSum" />
         <item itemvalue="Application.KthSmallestInMatrix" />
         <item itemvalue="Application.KthSmallestPrimeFraction" />
-        <item itemvalue="Application.CountSmallerNumberAfterSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +433,8 @@
       <workItem from="1542336264956" duration="623000" />
       <workItem from="1542424828323" duration="2235000" />
       <workItem from="1542515450508" duration="2236000" />
-      <workItem from="1542592753968" duration="4279000" />
+      <workItem from="1542592753968" duration="4441000" />
+      <workItem from="1542678877484" duration="1754000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -576,17 +569,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542548178331</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)">
+      <created>1542598031772</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1542598031772</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56733000" />
+    <option name="totallyTimeSpent" value="58649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -596,7 +596,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32678133" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -641,7 +641,8 @@
     <MESSAGE value="MajorityNumber 众数&#10;Nov 15, 2018, 19:54" />
     <MESSAGE value="CountSmallerNumberAfterSelf  计算右侧小于当前元素的个数&#10;Nov 17, 2018, 11:50" />
     <MESSAGE value="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization" />
-    <option name="LAST_COMMIT_MESSAGE" value="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization" />
+    <MESSAGE value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
+    <option name="LAST_COMMIT_MESSAGE" value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -666,27 +667,26 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java</url>
-          <line>81</line>
+          <line>84</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java</url>
-          <line>35</line>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
-          <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/CanJump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -944,9 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2664">
           <caret line="113" column="93" selection-start-line="113" selection-start-column="93" selection-end-line="113" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -954,9 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
           <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,6 +958,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,10 +1017,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state relative-caret-position="552">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1025,27 +1029,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="-676">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="261">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="84" selection-start-line="43" selection-start-column="84" selection-end-line="43" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
