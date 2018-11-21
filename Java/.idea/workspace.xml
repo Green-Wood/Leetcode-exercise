@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/SearchMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/SkyLine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Array/rangeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Array/reverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ImportantReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/rangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/reverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/singleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/singleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPrimeFraction.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,40 +30,40 @@
     <session id="-558190374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
-          <entry key="project.open.time.0" value="14" />
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="115" />
+          <entry key="java" value="129" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="115" />
+          <entry key="JAVA" value="129" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18765" />
+          <entry key="java" value="21389" />
           <entry key="md" value="90" />
-          <entry key="txt" value="558" />
+          <entry key="txt" value="587" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18765" />
+          <entry key="JAVA" value="21389" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="558" />
+          <entry key="PLAIN_TEXT" value="587" />
         </counts>
       </usages-collector>
     </session>
@@ -57,40 +71,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="427">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/SearchMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/SkyLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="528">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-676">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="249">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ReverseNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="249">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,50 +125,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/PermutationUnique.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/threeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="257">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/BeautifulArrangement.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/threeSumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1032">
-              <caret line="43" column="77" selection-start-line="43" selection-start-column="77" selection-end-line="43" selection-end-column="77" />
+            <state relative-caret-position="305">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/HappyEnd.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="249">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/HappyNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="249">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -166,24 +173,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/DP/WordBreak.java" />
-        <option value="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/Array/longestMountain.java" />
-        <option value="$PROJECT_DIR$/src/Array/N_Sum.java" />
-        <option value="$PROJECT_DIR$/src/Array/rangeSum.java" />
-        <option value="$PROJECT_DIR$/src/Array/removeDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/Array/singleNumber.java" />
-        <option value="$PROJECT_DIR$/src/Array/threeSum.java" />
-        <option value="$PROJECT_DIR$/src/Array/threeSumClosest.java" />
-        <option value="$PROJECT_DIR$/src/Array/WallBrick.java" />
-        <option value="$PROJECT_DIR$/src/DP/CoinChange.java" />
-        <option value="$PROJECT_DIR$/src/DP/CoinChange2.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Tree/Main.java" />
         <option value="$PROJECT_DIR$/src/List/mergeKLists.java" />
@@ -207,7 +201,6 @@
         <option value="$PROJECT_DIR$/src/Array/BeautifulArrangment.java" />
         <option value="$PROJECT_DIR$/src/Array/BeautifulArrangement.java" />
         <option value="$PROJECT_DIR$/src/Array/MaxChuncksToBeSorted.java" />
-        <option value="$PROJECT_DIR$/src/Array/reverseNumber.java" />
         <option value="$PROJECT_DIR$/src/DP/MinimalNumberOfRefueling.java" />
         <option value="$PROJECT_DIR$/src/DP/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/DP/MaximalSquare.java" />
@@ -222,6 +215,20 @@
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java" />
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" />
         <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/CountSmallerNumberAfterSelf.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/ImportantReverse.java" />
+        <option value="$PROJECT_DIR$/src/Array/reverseNumber.java" />
+        <option value="$PROJECT_DIR$/src/Array/ReverseNumber.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/singleNumber.java" />
+        <option value="$PROJECT_DIR$/src/Array/singleNumber.java" />
+        <option value="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/Array/rangeSum.java" />
+        <option value="$PROJECT_DIR$/src/Array/RangeSum.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/RangeSum.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/SkyLine.java" />
       </list>
     </option>
   </component>
@@ -258,8 +265,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,18 +281,34 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="KthSmallest" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="DivideAndConquer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Exercises/DivideAndConquer/SearchMatrix.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542680848601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542804025083" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -312,26 +333,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthSmallestDistance">
+  <component name="RunManager" selected="Application.SkyLine">
     <configuration name="KthSmallestDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestDistance" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallest.KthSmallestDistance" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KthSmallest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KthSmallestInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestInMatrix" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="PATTERN" value="Exercises.KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,11 +348,11 @@
       </method>
     </configuration>
     <configuration name="KthSmallestInMultiplyTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestInMultiplyTable" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallest.KthSmallestInMultiplyTable" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="PATTERN" value="Exercises.KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,11 +361,11 @@
       </method>
     </configuration>
     <configuration name="KthSmallestPairsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestPairsSum" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallest.KthSmallestPairsSum" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="PATTERN" value="Exercises.KthSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +373,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthSmallestPrimeFraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest.KthSmallestPrimeFraction" />
+    <configuration name="SearchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallest.SearchMatrix" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KthSmallest.*" />
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.SkyLine" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KthSmallestPrimeFraction" />
-      <item itemvalue="Application.KthSmallestInMatrix" />
       <item itemvalue="Application.KthSmallestPairsSum" />
       <item itemvalue="Application.KthSmallestInMultiplyTable" />
       <item itemvalue="Application.KthSmallestDistance" />
+      <item itemvalue="Application.SearchMatrix" />
+      <item itemvalue="Application.SkyLine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SkyLine" />
+        <item itemvalue="Application.SearchMatrix" />
         <item itemvalue="Application.KthSmallestDistance" />
         <item itemvalue="Application.KthSmallestInMultiplyTable" />
         <item itemvalue="Application.KthSmallestPairsSum" />
-        <item itemvalue="Application.KthSmallestInMatrix" />
-        <item itemvalue="Application.KthSmallestPrimeFraction" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +455,9 @@
       <workItem from="1542424828323" duration="2235000" />
       <workItem from="1542515450508" duration="2236000" />
       <workItem from="1542592753968" duration="4441000" />
-      <workItem from="1542678877484" duration="1754000" />
+      <workItem from="1542678877484" duration="1995000" />
+      <workItem from="1542795185879" duration="7000" />
+      <workItem from="1542795209911" duration="5570000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -576,17 +599,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542598031772</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problems：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;5. KthSmallestPairDistance&#10;&#10;Solutions：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)">
+      <created>1542680903136</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542680903136</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58649000" />
+    <option name="totallyTimeSpent" value="64467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -594,9 +624,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32678133" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -642,7 +672,8 @@
     <MESSAGE value="CountSmallerNumberAfterSelf  计算右侧小于当前元素的个数&#10;Nov 17, 2018, 11:50" />
     <MESSAGE value="KthSmallestPrimeFraction     第k小的素数分数&#10;Nov 18, 2018, 21:33&#10;&#10;明日继续更新相关的题目系列（第k小问题的简化）&#10;&#10;Problem：&#10;1、KthSmallestPrimeFraction&#10;&#10;Solution：&#10;1、PriorityQueue-based solution with optimization" />
     <MESSAGE value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
-    <option name="LAST_COMMIT_MESSAGE" value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problem：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;&#10;Solution：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
+    <MESSAGE value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problems：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;5. KthSmallestPairDistance&#10;&#10;Solutions：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
+    <option name="LAST_COMMIT_MESSAGE" value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problems：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;5. KthSmallestPairDistance&#10;&#10;Solutions：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -660,75 +691,33 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/reverseNumber.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMatrix.java</url>
           <line>84</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java</url>
-          <line>26</line>
+          <url>file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java</url>
+          <line>53</line>
           <properties />
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/SkyLine.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CanJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/FindPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/List/mergeKLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/groupAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Permute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/getKthPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/LongestConsecutiveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-499">
@@ -736,24 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/removeDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/rangeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -789,13 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="375" column="23" selection-start-line="375" selection-start-column="23" selection-end-line="375" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/AdvantageShuffle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -862,13 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/reverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/MaxChuncksToBeSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -926,31 +887,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/MajorityNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/NimGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/ImportantReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2664">
-          <caret line="113" column="93" selection-start-line="113" selection-start-column="93" selection-end-line="113" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/CountSmallerNumberAfterSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -961,20 +901,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPrimeFraction.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPrimeFraction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/WallBrick.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -986,13 +940,6 @@
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/BeautifulArrangement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="77" selection-start-line="43" selection-start-column="77" selection-end-line="43" selection-end-column="77" />
         </state>
       </provider>
     </entry>
@@ -1017,34 +964,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="505">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestPairsSum.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/BrustBallon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-676">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="528">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestInMultiplyTable.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/AdvantageShuffle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="723">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/BeautifulArrangement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="332">
+          <caret line="43" column="77" selection-start-line="43" selection-start-column="77" selection-end-line="43" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MajorityNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/singleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/threeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/WallBrick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/threeSumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ReverseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/SearchMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/SkyLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>

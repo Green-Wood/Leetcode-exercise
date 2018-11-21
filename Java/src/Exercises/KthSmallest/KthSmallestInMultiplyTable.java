@@ -1,4 +1,4 @@
-package KthSmallest;
+package Exercises.KthSmallest;
 /*
 Leetcode No. 668(CN)
 

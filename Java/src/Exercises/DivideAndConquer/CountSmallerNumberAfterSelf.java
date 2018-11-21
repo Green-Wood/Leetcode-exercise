@@ -1,4 +1,4 @@
-package Array;
+package Exercises.DivideAndConquer;
 
 import java.util.Arrays;
 import java.util.List;
