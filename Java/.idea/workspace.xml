@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/UnionFind/FriendCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/UnionFind/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/KthLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/LargestRectangleInHistgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/findMedianInTwoSortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/singleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/singleNumber.java" afterDir="false" />
@@ -31,28 +31,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="140" />
+          <entry key="java" value="143" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="140" />
+          <entry key="JAVA" value="143" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="24616" />
+          <entry key="java" value="26978" />
           <entry key="md" value="90" />
-          <entry key="txt" value="702" />
+          <entry key="txt" value="750" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24616" />
+          <entry key="JAVA" value="26978" />
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="702" />
+          <entry key="PLAIN_TEXT" value="750" />
         </counts>
       </usages-collector>
     </session>
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/UnionFind/NumberOfIslands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
-              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            <state relative-caret-position="588">
+              <caret line="125" column="42" lean-forward="true" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
               <folding>
                 <element signature="e#1147#1148#0" expanded="true" />
                 <element signature="e#1177#1178#0" expanded="true" />
@@ -99,30 +99,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/LongestConsecutiveSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/KthLargestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StructureDesigning/LRUCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/KthSmallestInBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="-1147">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/LargestRectangleInHistgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="102" column="8" lean-forward="true" selection-start-line="102" selection-start-column="8" selection-end-line="115" selection-end-column="23" />
+              <folding>
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,8 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array/AdvantageShuffle.java" />
-        <option value="$PROJECT_DIR$/src/Tree/LevelOrder.java" />
         <option value="$PROJECT_DIR$/src/DP/FlipStringToMonotoneIncreasing.java" />
         <option value="$PROJECT_DIR$/src/List/ListReverse.java" />
         <option value="$PROJECT_DIR$/src/List/ListReverseTwo.java" />
@@ -237,6 +241,8 @@
         <option value="$PROJECT_DIR$/src/Exercises/UnionFind/FriendCycle.java" />
         <option value="$PROJECT_DIR$/src/Exercises/UnionFind/NumberOfIsland.java" />
         <option value="$PROJECT_DIR$/src/Exercises/UnionFind/NumberOfIslands.java" />
+        <option value="$PROJECT_DIR$/src/Array/KthLargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/Array/LargestRectangleInHistgram.java" />
       </list>
     </option>
   </component>
@@ -414,14 +420,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="UnionFind" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,10 +429,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
+    <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542960957650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543036991977" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -458,13 +457,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LargestRectangleInHistogram">
     <configuration name="FriendCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.UnionFind.FriendCycle" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises.UnionFind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleInHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.LargestRectangleInHistogram" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,19 +510,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.KthSmallest.SearchMatrix" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.UnionFind.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SkyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.SkyLine" />
       <module name="Java" />
@@ -525,19 +524,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SearchMatrix" />
       <item itemvalue="Application.SkyLine" />
       <item itemvalue="Application.MajorityNumber" />
       <item itemvalue="Application.FriendCycle" />
       <item itemvalue="Application.NumberOfIslands" />
+      <item itemvalue="Application.LargestRectangleInHistogram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestRectangleInHistogram" />
         <item itemvalue="Application.NumberOfIslands" />
         <item itemvalue="Application.FriendCycle" />
         <item itemvalue="Application.MajorityNumber" />
         <item itemvalue="Application.SkyLine" />
-        <item itemvalue="Application.SearchMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -584,7 +583,7 @@
       <workItem from="1542795185879" duration="7000" />
       <workItem from="1542795209911" duration="5746000" />
       <workItem from="1542849748518" duration="2565000" />
-      <workItem from="1542956596483" duration="3446000" />
+      <workItem from="1542956596483" duration="7762000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -747,11 +746,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542854007646</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="FriendCycle     朋友圈&#10;NumberOfIslands      岛屿的个数&#10;Nov 23, 2018, 16:16">
+      <created>1542961019294</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542961019294</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70654000" />
+    <option name="totallyTimeSpent" value="74970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -816,7 +822,8 @@
     <MESSAGE value="第k小问题的简化&#10;Nov 19, 2018, 11:24&#10;&#10;Problems：&#10;1. KthSmallestPrimeFraction&#10;2. KthSmallestInMatrix&#10;3. KthSmallestInMultiplyTable&#10;4. KthSmallestPairsSum&#10;5. KthSmallestPairDistance&#10;&#10;Solutions：&#10;1. PriorityQueue-based solution with optimization&#10;2. Sorting-based&#10;3. Binary search(value range)" />
     <MESSAGE value="SkyLine         天际线问题&#10;Search2DMatrix     &quot;有序&quot;二维数组查找&#10;Nov 21, 2018, 20:41" />
     <MESSAGE value="MajorityNumber    寻找众数&#10;KthSmallestInBST    二叉搜索树中第k小的数&#10;Nov 22, 2018, 10:33" />
-    <option name="LAST_COMMIT_MESSAGE" value="MajorityNumber    寻找众数&#10;KthSmallestInBST    二叉搜索树中第k小的数&#10;Nov 22, 2018, 10:33" />
+    <MESSAGE value="FriendCycle     朋友圈&#10;NumberOfIslands      岛屿的个数&#10;Nov 23, 2018, 16:16" />
+    <option name="LAST_COMMIT_MESSAGE" value="FriendCycle     朋友圈&#10;NumberOfIslands      岛屿的个数&#10;Nov 23, 2018, 16:16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -867,20 +874,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/List/ListReverseTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="488" column="45" lean-forward="true" selection-start-line="488" selection-start-column="45" selection-end-line="488" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
@@ -934,13 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1226,13 +1212,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/UnionFind/NumberOfIslands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        <state relative-caret-position="588">
+          <caret line="125" column="42" lean-forward="true" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
           <folding>
             <element signature="e#1147#1148#0" expanded="true" />
             <element signature="e#1177#1178#0" expanded="true" />
             <element signature="e#1152#1153#0" expanded="true" />
             <element signature="e#1188#1189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/KthLargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1147">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/LargestRectangleInHistgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="102" column="8" lean-forward="true" selection-start-line="102" selection-start-column="8" selection-end-line="115" selection-end-column="23" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
           </folding>
         </state>
       </provider>
