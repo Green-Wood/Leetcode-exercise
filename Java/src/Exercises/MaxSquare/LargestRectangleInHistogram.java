@@ -1,4 +1,4 @@
-package Array;
+package Exercises.MaxSquare;
 
 import java.util.Stack;
 

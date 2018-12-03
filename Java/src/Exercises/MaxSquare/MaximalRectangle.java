@@ -1,4 +1,4 @@
-package DP;
+package Exercises.MaxSquare;
 
 import java.util.Arrays;
 /*
