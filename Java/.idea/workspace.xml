@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/MaxSquare/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/LargestRectangleInHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/MaxSquare/LargestRectangleInHistogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/MaximalSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalSquare.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -370,7 +366,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543837888583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543838243363" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -529,7 +525,7 @@
       <workItem from="1543564955742" duration="99000" />
       <workItem from="1543649825200" duration="3960000" />
       <workItem from="1543750343729" duration="145000" />
-      <workItem from="1543809751361" duration="2660000" />
+      <workItem from="1543809751361" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -727,15 +723,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543740392746</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56">
+      <created>1543838224057</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1543838224057</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83903000" />
+    <option name="totallyTimeSpent" value="83949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25250357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -773,7 +775,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Longest Consecutive Sequence" />
     <MESSAGE value="2018 11.4" />
     <MESSAGE value="Nov 5, 2018, 22:01" />
     <MESSAGE value="Nov 6, 2018, 10:41" />
@@ -798,7 +799,8 @@
     <MESSAGE value="SymmetricTree     对称二叉树&#10;Nov 27, 2018, 11:37" />
     <MESSAGE value="ShortestCharDistinction&#10;摸了" />
     <MESSAGE value="RangeSumQueryMutable    可变的数组和查询器&#10;Dec 2, 2018, 16:46" />
-    <option name="LAST_COMMIT_MESSAGE" value="RangeSumQueryMutable    可变的数组和查询器&#10;Dec 2, 2018, 16:46" />
+    <MESSAGE value="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56" />
+    <option name="LAST_COMMIT_MESSAGE" value="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
