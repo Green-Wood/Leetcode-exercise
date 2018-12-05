@@ -1,4 +1,4 @@
-package DP;
+package Exercises.Knapsack;
 
 /*
 给定不同面额的硬币和一个总金额。写出函数来计算可以凑成总金额的硬币组合数。假设每一种面额的硬币有无限个。
@@ -27,6 +27,9 @@ package DP;
 
 输入: amount = 10, coins = [10]
 输出: 1
+
+
+HINT: 背包问题，类型2：能否达到某个点（几种方法）？
  */
 
 

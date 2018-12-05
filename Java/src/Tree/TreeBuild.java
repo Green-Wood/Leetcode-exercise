@@ -13,7 +13,6 @@ public class TreeBuild {
         for (int i = 0; i < inorder.length; i++){
             map.put(inorder[i], i);
         }
-
         TreeNode root = build(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1, map);
         return root;
     }
