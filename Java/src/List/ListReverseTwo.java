@@ -22,7 +22,7 @@ public class ListReverseTwo {
         ListNode curr = prev.next;
         ListNode then = curr.next;
 
-        for (int i = 0; i < n-m; i++){      // ****** 每次进行一次翻转，将后面的节点提到前面来，并持续维护curr的下一个节点地址
+        for (int i = 0; i < n-m; i++){      // ****** 每次进行一次翻转，将后面的节点一个个提到前面来，并持续维护curr的下一个节点地址
             curr.next = then.next;
             then.next = prev.next;
             prev.next = then;

@@ -69,7 +69,7 @@ public class ImportantReverse {
         }
     }
 
-    public int reversePairsBST(int[] nums) {         // 基于二叉搜索树的实现
+    public int reversePairsBST(int[] nums) {         // 基于 线索二叉搜索树 的实现
         int ans = 0;                                // 缺点：由于输入流的不同，二叉树可能不平衡，导致搜索效率下降，TLE
         Node root = null;                           // 可以通过AVL或红黑树进行修正，但实现较为复杂
         for (int n: nums) {

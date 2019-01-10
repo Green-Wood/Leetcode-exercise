@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/SwapNodeInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/SwapNodeInPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/ListReverseTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/ListReverseTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,52 +17,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/ShortestBridge.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/SearchMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="504">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/DailyTemperature.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="651">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List/ListReverseTwo.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="651">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List/ListReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ReverseNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-585">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/DFS.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="63">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,10 +83,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List/IntersectionOfTwoLists.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="258">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,33 +111,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/GenerateParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -141,9 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/KthSmallest/KthSmallestDistance.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java" />
         <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/CountSmallerNumberAfterSelf.java" />
         <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/Array/reverseNumber.java" />
@@ -192,6 +187,9 @@
         <option value="$PROJECT_DIR$/src/Exercises/DailyTemperature.java" />
         <option value="$PROJECT_DIR$/src/List/SwapNodeInPairs.java" />
         <option value="$PROJECT_DIR$/src/Tree/DFS.java" />
+        <option value="$PROJECT_DIR$/src/List/ListReverseTwo.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java" />
       </list>
     </option>
   </component>
@@ -345,6 +343,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -361,27 +360,27 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="DivideAndConquer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545720567382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547086105036" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -406,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DFS">
+  <component name="RunManager" selected="Application.DifferentWaysToAddParentheses">
     <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.CourseSchedule" />
       <module name="Java" />
@@ -446,12 +445,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestRepeatedSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.LongestSubsequence.LongestRepeatedSubarray" />
+    <configuration name="DifferentWaysToAddParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.DivideAndConquer.DifferentWaysToAddParentheses" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.LongestSubsequence.*" />
+          <option name="PATTERN" value="Exercises.DivideAndConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,19 +472,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestRepeatedSubarray" />
       <item itemvalue="Application.CourseSchedule" />
       <item itemvalue="Application.ShortestBridge" />
       <item itemvalue="Application.DailyTemperature" />
       <item itemvalue="Application.DFS" />
+      <item itemvalue="Application.DifferentWaysToAddParentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DifferentWaysToAddParentheses" />
         <item itemvalue="Application.DFS" />
         <item itemvalue="Application.DailyTemperature" />
         <item itemvalue="Application.ShortestBridge" />
         <item itemvalue="Application.CourseSchedule" />
-        <item itemvalue="Application.LongestRepeatedSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +556,9 @@
       <workItem from="1545275247180" duration="509000" />
       <workItem from="1545307846923" duration="742000" />
       <workItem from="1545479436511" duration="13000" />
-      <workItem from="1545717818213" duration="2134000" />
+      <workItem from="1545717818213" duration="4118000" />
+      <workItem from="1545921880551" duration="26000" />
+      <workItem from="1547082548705" duration="1456000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -825,16 +826,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544946006666</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="NonRecursive traversal&#10;Dec 25, 2018, 14:50">
+      <created>1545720657667</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1545720657667</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107707000" />
+    <option name="totallyTimeSpent" value="111173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -844,7 +853,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32555282" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -871,7 +880,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BeautifulArrangement 能够整除的全排列&#10;Nov 11, 2018, 11:36" />
     <MESSAGE value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
     <MESSAGE value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
     <MESSAGE value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
@@ -896,7 +904,8 @@
     <MESSAGE value="CourseSchedule   课程排序（拓扑排序）&#10;Dec 10, 2018, 10:27" />
     <MESSAGE value="Shortest Bridge        最短的桥&#10;Dec 11, 2018, 09:57" />
     <MESSAGE value="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40" />
-    <option name="LAST_COMMIT_MESSAGE" value="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40" />
+    <MESSAGE value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
+    <option name="LAST_COMMIT_MESSAGE" value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -963,7 +972,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Tree/DFS.java</url>
-          <line>59</line>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -979,68 +988,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/Interview.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercises/UnionFind/FriendCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="108" column="5" selection-start-line="68" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
-          <folding>
-            <element signature="e#2523#2524#0" expanded="true" />
-            <element signature="e#2559#2560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/longestMountain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/ShortestCharDist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1247,13 +1198,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestPalindromeSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -1313,27 +1257,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/List/ListReverseTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/List/IntersectionOfTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/List/SwapNodeInPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1365,10 +1292,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/List/ListReverseTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/SearchMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/RangeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ReverseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/DFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="105">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List/SwapNodeInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
