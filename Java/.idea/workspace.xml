@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/ListReverseTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/ListReverseTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/SearchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,17 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-585">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="378">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="630">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,9 +64,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="399">
               <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
@@ -139,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/CountSmallerNumberAfterSelf.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/Array/reverseNumber.java" />
         <option value="$PROJECT_DIR$/src/Array/ReverseNumber.java" />
         <option value="$PROJECT_DIR$/src/Exercises/ReverseNumber/singleNumber.java" />
@@ -190,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/List/ListReverseTwo.java" />
         <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java" />
         <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java" />
       </list>
     </option>
   </component>
@@ -367,7 +366,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="DivideAndConquer" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,7 +379,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547086105036" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547171581008" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -405,20 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DifferentWaysToAddParentheses">
-    <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.CourseSchedule" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MinimumSizeSubarraySum">
     <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.DFS" />
       <module name="Java" />
@@ -458,6 +444,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinimumSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.BinarySearch.MinimumSizeSubarraySum" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShortestBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.ShortestBridge" />
       <module name="Java" />
@@ -472,19 +471,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CourseSchedule" />
       <item itemvalue="Application.ShortestBridge" />
       <item itemvalue="Application.DailyTemperature" />
       <item itemvalue="Application.DFS" />
       <item itemvalue="Application.DifferentWaysToAddParentheses" />
+      <item itemvalue="Application.MinimumSizeSubarraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumSizeSubarraySum" />
         <item itemvalue="Application.DifferentWaysToAddParentheses" />
         <item itemvalue="Application.DFS" />
         <item itemvalue="Application.DailyTemperature" />
         <item itemvalue="Application.ShortestBridge" />
-        <item itemvalue="Application.CourseSchedule" />
       </list>
     </recent_temporary>
   </component>
@@ -558,7 +557,9 @@
       <workItem from="1545479436511" duration="13000" />
       <workItem from="1545717818213" duration="4118000" />
       <workItem from="1545921880551" duration="26000" />
-      <workItem from="1547082548705" duration="1456000" />
+      <workItem from="1547082548705" duration="1712000" />
+      <workItem from="1547167349161" duration="160000" />
+      <workItem from="1547167523839" duration="3369000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540612268410</created>
@@ -833,17 +834,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545720657667</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="DifferentWaysToAddParentheses&#10;Jan 10, 2019, 10:08">
+      <created>1547086129928</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1547086129930</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111173000" />
+    <option name="totallyTimeSpent" value="114958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -880,7 +888,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19" />
     <MESSAGE value="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04" />
     <MESSAGE value="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57" />
     <MESSAGE value="MaximalSquare   最大矩形面积&#10;Nov 14, 2018, 16:24" />
@@ -905,7 +912,8 @@
     <MESSAGE value="Shortest Bridge        最短的桥&#10;Dec 11, 2018, 09:57" />
     <MESSAGE value="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40" />
     <MESSAGE value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
-    <option name="LAST_COMMIT_MESSAGE" value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
+    <MESSAGE value="DifferentWaysToAddParentheses&#10;Jan 10, 2019, 10:08" />
+    <option name="LAST_COMMIT_MESSAGE" value="DifferentWaysToAddParentheses&#10;Jan 10, 2019, 10:08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -976,6 +984,12 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -988,20 +1002,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array/ShortestCharDist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/RangeSumQueryMutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/MaxSquare/TrappingRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1341,6 +1341,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/DFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1361,27 +1385,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-585">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
         </state>
       </provider>
     </entry>
