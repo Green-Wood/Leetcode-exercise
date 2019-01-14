@@ -22,7 +22,11 @@ m = 2
 因为此时这两个子数组各自的和的最大值为18，在所有情况中最小。
 
 
-HINT:
+HINT: 我们在数组的最大值max与数组所有元素之和sum中使用二分搜索，每次找到一个mid值。
+valid函数用于验证，我们是否能够将数组分割为m块，并保证每块的大小不超过mid。
+1、如果我们能够做到，则此mid太大了
+2、如果我们不能够做到，则此mid太小了
+因此，我们就可以通过二分搜索来寻找最为合适的mid，使得mid为最小的且刚好做到
  */
 public class SplitArrayLargestSum {
     public int splitArray(int[] nums, int m) {

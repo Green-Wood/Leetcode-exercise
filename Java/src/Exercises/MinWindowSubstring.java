@@ -36,6 +36,7 @@ public class MinWindowSubstring {
                 }
                 char front = s.charAt(i++);
                 if (map[front - 'A']++ == 0) counter++;
+                // i指针经过的都是j指针之前经过的元素，若不是t中的字母，则应该被减为负数
             }
         }
         return minLen == Integer.MAX_VALUE ? "" : s.substring(left, left + minLen);
