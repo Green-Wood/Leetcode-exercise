@@ -1,4 +1,4 @@
-package Array;
+package Exercises.Backtracking;
 
 import java.util.*;
 /*
