@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StructureDesigning/RangeModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FirstMissingPositive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/MergeIntervals$Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/MergeIntervals.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,20 +41,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="714">
               <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            <state relative-caret-position="651">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/FirstMissingPositive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
               <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array/KthLargestNumber.java" />
         <option value="$PROJECT_DIR$/src/Array/LargestRectangleInHistgram.java" />
         <option value="$PROJECT_DIR$/src/Array/LargestRectangleInHistogram.java" />
         <option value="$PROJECT_DIR$/src/Tree/SymmetricTree.java" />
@@ -179,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/Exercises/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/RangeModule.java" />
+        <option value="$PROJECT_DIR$/src/Array/FirstMissingPositive.java" />
       </list>
     </option>
   </component>
@@ -349,7 +355,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StructureDesigning" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +368,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547798495794" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547951535822" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -387,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RangeModule">
+  <component name="RunManager" selected="Application.FirstMissingPositive">
     <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.Combination" />
       <module name="Java" />
@@ -407,6 +413,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FirstMissingPositive" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -440,33 +459,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.Subsets" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Subsets" />
       <item itemvalue="Application.CombinationSum3" />
       <item itemvalue="Application.Combination" />
       <item itemvalue="Application.MergeAndInsertIntervals" />
       <item itemvalue="Application.RangeModule" />
+      <item itemvalue="Application.FirstMissingPositive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.RangeModule" />
         <item itemvalue="Application.MergeAndInsertIntervals" />
         <item itemvalue="Application.Combination" />
         <item itemvalue="Application.CombinationSum3" />
-        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -549,14 +555,8 @@
       <workItem from="1547522579762" duration="3277000" />
       <workItem from="1547602043137" duration="1642000" />
       <workItem from="1547721785326" duration="1901000" />
-      <workItem from="1547774738578" duration="2668000" />
-    </task>
-    <task id="LOCAL-00002" summary="first commit">
-      <created>1540615341480</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1540615341480</updated>
+      <workItem from="1547774738578" duration="2935000" />
+      <workItem from="1547949838159" duration="1177000" />
     </task>
     <task id="LOCAL-00003" summary="get Kth permutation">
       <created>1541127466035</created>
@@ -894,17 +894,24 @@
       <option name="project" value="LOCAL" />
       <updated>1547775297987</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="RangeModule&#10;Jan 18, 2019, 16:02">
+      <created>1547798551894</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1547798551894</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135414000" />
+    <option name="totallyTimeSpent" value="136858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2825465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20100144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -913,7 +920,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32555282" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26535627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -941,7 +948,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FriendCycle     朋友圈&#10;NumberOfIslands      岛屿的个数&#10;Nov 23, 2018, 16:16" />
     <MESSAGE value="KthLargestNumber    数组中第k大的数（数量）&#10;LargestRectangleInHistogram    直方图中最大的矩形&#10;Nov 24, 2018, 13:24" />
     <MESSAGE value="SymmetricTree     对称二叉树&#10;Nov 27, 2018, 11:37" />
     <MESSAGE value="ShortestCharDistinction&#10;摸了" />
@@ -966,7 +972,8 @@
     <MESSAGE value="CombinationSum3&#10;Jan 16, 2019, 09:52" />
     <MESSAGE value="Combination&#10;Jan 17, 2019, 22:29" />
     <MESSAGE value="InsertIntervals&#10;Jan 18, 2019, 09:34" />
-    <option name="LAST_COMMIT_MESSAGE" value="InsertIntervals&#10;Jan 18, 2019, 09:34" />
+    <MESSAGE value="RangeModule&#10;Jan 18, 2019, 16:02" />
+    <option name="LAST_COMMIT_MESSAGE" value="RangeModule&#10;Jan 18, 2019, 16:02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1057,7 +1064,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java</url>
-          <line>46</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
@@ -1073,16 +1080,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/ShortestBridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/DailyTemperature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1362,6 +1359,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="725" column="40" lean-forward="true" selection-start-line="725" selection-start-column="40" selection-end-line="725" selection-end-column="40" />
+          <folding>
+            <element signature="e#25608#25609#0" expanded="true" />
+            <element signature="e#25660#25661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="330" column="30" selection-start-line="330" selection-start-column="30" selection-end-line="330" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="335" column="17" lean-forward="true" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/CombinationSum3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -1379,6 +1401,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1416,45 +1445,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="725" column="40" lean-forward="true" selection-start-line="725" selection-start-column="40" selection-end-line="725" selection-end-column="40" />
-          <folding>
-            <element signature="e#25608#25609#0" expanded="true" />
-            <element signature="e#25660#25661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/NavigableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="330" column="30" selection-start-line="330" selection-start-column="30" selection-end-line="330" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="335" column="17" lean-forward="true" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        <state relative-caret-position="651">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/FirstMissingPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
