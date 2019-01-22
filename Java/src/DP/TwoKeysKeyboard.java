@@ -21,6 +21,7 @@ n 的取值范围是 [1, 1000] 。
 
  */
 public class TwoKeysKeyboard {
+
     // dp version
     public int minSteps(int n) {
         int[] dp = new int[n + 1];
@@ -48,6 +49,18 @@ public class TwoKeysKeyboard {
         }
         return sum;
     }
+
+    /*
+    dp[i]为得到i个字符所需要的最少的步数。
+    则dp[i]为： i的所有质因子之和，如：20 = 2 * 2 * 5， 则 dp[20] = 2 + 2 + 5 = 9
+    下面来进行证明：
+    对于dp[n]，可得到dp[n] = dp[n/j] + j (j为质数且j能够整除n)
+    则我们可以将dp[n] 分解为 其所有的质因子之和
+    比如：dp[11] = 11，因为11个字符只能通过一个个复制得到
+    dp[100] = dp[50] + 2 = dp[25] + 2 + 2 = dp[5] + 5 + 2 + 2 = 5 + 5 + 2 + 2 = dp[10] + 2 + 5 = dp[20] + 5
+
+    因此，对于本题，我们只需要求出参数n的 所有质因子 并全部相加即可。
+     */
 
     public static void main(String[] args) {
         System.out.println(new TwoKeysKeyboard().minSteps(6));

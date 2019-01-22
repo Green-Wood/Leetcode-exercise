@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+            <state relative-caret-position="1281">
+              <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
               <folding>
                 <element signature="e#873#874#0" expanded="true" />
                 <element signature="e#909#910#0" expanded="true" />
@@ -381,7 +381,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548046594577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548166038297" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -570,14 +570,7 @@
       <workItem from="1547721785326" duration="1901000" />
       <workItem from="1547774738578" duration="2935000" />
       <workItem from="1547949838159" duration="1371000" />
-      <workItem from="1548045946912" duration="634000" />
-    </task>
-    <task id="LOCAL-00004" summary="Longest Consecutive Sequence">
-      <created>1541213213739</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1541213213740</updated>
+      <workItem from="1548045946912" duration="1916000" />
     </task>
     <task id="LOCAL-00005" summary="2018 11.4">
       <created>1541298051002</created>
@@ -915,11 +908,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547951582998</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="TwoKeysKeyboard&#10;Jan 21, 2019, 12:57">
+      <created>1548046637306</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1548046637307</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137686000" />
+    <option name="totallyTimeSpent" value="138968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -934,7 +934,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26535627" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26535627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -962,7 +962,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SymmetricTree     对称二叉树&#10;Nov 27, 2018, 11:37" />
     <MESSAGE value="ShortestCharDistinction&#10;摸了" />
     <MESSAGE value="RangeSumQueryMutable    可变的数组和查询器&#10;Dec 2, 2018, 16:46" />
     <MESSAGE value="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56" />
@@ -987,7 +986,8 @@
     <MESSAGE value="InsertIntervals&#10;Jan 18, 2019, 09:34" />
     <MESSAGE value="RangeModule&#10;Jan 18, 2019, 16:02" />
     <MESSAGE value="FirstMissingPositive&#10;Jan 20, 2019, 10:32" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstMissingPositive&#10;Jan 20, 2019, 10:32" />
+    <MESSAGE value="TwoKeysKeyboard&#10;Jan 21, 2019, 12:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="TwoKeysKeyboard&#10;Jan 21, 2019, 12:57" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1084,7 +1084,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java</url>
-          <line>52</line>
+          <line>65</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -1474,8 +1474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        <state relative-caret-position="1281">
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
           <folding>
             <element signature="e#873#874#0" expanded="true" />
             <element signature="e#909#910#0" expanded="true" />
