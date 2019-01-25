@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/OneZeroMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/TwoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/FirstMissingPositive.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DP/OneZeroMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="315">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,17 +50,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/List/TwoNumberSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="357">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="70" column="66" selection-start-line="70" selection-start-column="66" selection-end-line="70" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="546">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array/ShortestCharDist.java" />
         <option value="$PROJECT_DIR$/src/Exercises/NumArray.java" />
         <option value="$PROJECT_DIR$/src/Exercises/RangeSumQueryMutable.java" />
         <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/Interview.java" />
@@ -194,8 +194,9 @@
         <option value="$PROJECT_DIR$/src/Array/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" />
         <option value="$PROJECT_DIR$/src/DP/OneZeroMatrix.java" />
-        <option value="$PROJECT_DIR$/src/List/TwoNumberSum.java" />
         <option value="$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java" />
+        <option value="$PROJECT_DIR$/src/List/TwoNumberSum.java" />
+        <option value="$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java" />
       </list>
     </option>
   </component>
@@ -349,7 +350,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -366,20 +367,26 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548296946148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548388454307" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -404,20 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoKeysKeyboard">
-    <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.Combination" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OneThreeTwoPattern">
     <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.FirstMissingPositive" />
       <module name="Java" />
@@ -437,6 +431,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneThreeTwoPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.OneThreeTwoPattern" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,19 +478,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Combination" />
       <item itemvalue="Application.MergeAndInsertIntervals" />
       <item itemvalue="Application.RangeModule" />
       <item itemvalue="Application.FirstMissingPositive" />
       <item itemvalue="Application.TwoKeysKeyboard" />
+      <item itemvalue="Application.OneThreeTwoPattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneThreeTwoPattern" />
         <item itemvalue="Application.TwoKeysKeyboard" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.RangeModule" />
         <item itemvalue="Application.MergeAndInsertIntervals" />
-        <item itemvalue="Application.Combination" />
       </list>
     </recent_temporary>
   </component>
@@ -569,14 +576,8 @@
       <workItem from="1547774738578" duration="2935000" />
       <workItem from="1547949838159" duration="1371000" />
       <workItem from="1548045946912" duration="2064000" />
-      <workItem from="1548220150670" duration="2984000" />
-    </task>
-    <task id="LOCAL-00006" summary="Nov 5, 2018, 22:01">
-      <created>1541426534014</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1541426534014</updated>
+      <workItem from="1548220150670" duration="3202000" />
+      <workItem from="1548386834842" duration="1539000" />
     </task>
     <task id="LOCAL-00007" summary="Nov 6, 2018, 10:41">
       <created>1541472080786</created>
@@ -914,17 +915,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548166700879</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="ArrayOfDoubledPairs&#10;Jan 24, 2019, 10:30">
+      <created>1548297006646</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1548297006647</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142100000" />
+    <option name="totallyTimeSpent" value="143857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20958512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -961,7 +969,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RangeSumQueryMutable    可变的数组和查询器&#10;Dec 2, 2018, 16:46" />
     <MESSAGE value="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56" />
     <MESSAGE value="PartitionEqualSubsetSum    分割和相等的子集&#10;Dec 4, 2018, 16:51" />
     <MESSAGE value="Knapsack 背包问题&#10;Dec 5, 2018, 19:34" />
@@ -986,7 +993,8 @@
     <MESSAGE value="FirstMissingPositive&#10;Jan 20, 2019, 10:32" />
     <MESSAGE value="TwoKeysKeyboard&#10;Jan 21, 2019, 12:57" />
     <MESSAGE value="TwoKeysKeyboard explanation&#10;Jan 21, 2019, 12:57" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoKeysKeyboard explanation&#10;Jan 21, 2019, 12:57" />
+    <MESSAGE value="ArrayOfDoubledPairs&#10;Jan 24, 2019, 10:30" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayOfDoubledPairs&#10;Jan 24, 2019, 10:30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1087,6 +1095,12 @@
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1099,13 +1113,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/List/ListReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1416,6 +1423,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/OneZeroMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/PermutationUnique.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
@@ -1450,34 +1484,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/OneZeroMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/List/TwoNumberSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="466">
+          <caret line="70" column="66" selection-start-line="70" selection-start-column="66" selection-end-line="70" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
