@@ -28,7 +28,7 @@ A = [1, 2, 3, 4]
 
 返回: 3, A 中有三个子等差数组: [1, 2, 3], [2, 3, 4] 以及自身 [1, 2, 3, 4]。
 
-HINT: 若在A中[i, j]为等差数列，若
+HINT: 若在A中[i, j]为等差数列，若A[j + 1]与A[j]的差和之前等差数列的差相同，那么A[i, j + 1]也是等差数列，否则A[i, j + 1]不是等差数列
  */
 public class ArithmeticSlices {
     public int brustForce(int[] A) {
