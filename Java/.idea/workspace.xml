@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/AsteroidsCollide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BasicCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,13 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/AsteroidsCollide.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+            <state relative-caret-position="798">
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BasicCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1285#1286#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/DivideAndConquer/Interview.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MaxSquare/LargestRectangleInHistogram.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MaxSquare/TrappingRainWater.java" />
@@ -177,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java" />
         <option value="$PROJECT_DIR$/src/Array/ArithmeticSlices.java" />
         <option value="$PROJECT_DIR$/src/Array/AsteroidsCollide.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BasicCalculator.java" />
       </list>
     </option>
   </component>
@@ -346,7 +357,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +371,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548560604668" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548687494401" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -385,13 +396,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AsteroidsCollide">
+  <component name="RunManager" selected="Application.BasicCalculator">
     <configuration name="AsteroidsCollide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.AsteroidsCollide" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.BasicCalculator" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,19 +449,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructureDesigning.RangeModule" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StructureDesigning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoKeysKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.TwoKeysKeyboard" />
       <module name="Java" />
@@ -452,19 +463,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RangeModule" />
       <item itemvalue="Application.FirstMissingPositive" />
       <item itemvalue="Application.TwoKeysKeyboard" />
       <item itemvalue="Application.OneThreeTwoPattern" />
       <item itemvalue="Application.AsteroidsCollide" />
+      <item itemvalue="Application.BasicCalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicCalculator" />
         <item itemvalue="Application.AsteroidsCollide" />
         <item itemvalue="Application.OneThreeTwoPattern" />
         <item itemvalue="Application.TwoKeysKeyboard" />
         <item itemvalue="Application.FirstMissingPositive" />
-        <item itemvalue="Application.RangeModule" />
       </list>
     </recent_temporary>
   </component>
@@ -553,14 +564,9 @@
       <workItem from="1548220150670" duration="3202000" />
       <workItem from="1548386834842" duration="1800000" />
       <workItem from="1548468183575" duration="3309000" />
-      <workItem from="1548558714094" duration="1634000" />
-    </task>
-    <task id="LOCAL-00010" summary="EggsFall&#10;classical problem">
-      <created>1541750383271</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1541750383272</updated>
+      <workItem from="1548558714094" duration="1998000" />
+      <workItem from="1548678070256" duration="576000" />
+      <workItem from="1548678749576" duration="1122000" />
     </task>
     <task id="LOCAL-00011" summary="PermutationUnique 避免重复的全排列&#10;Nov 10, 2018, 19:39">
       <created>1541849978199</created>
@@ -898,17 +904,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548472886371</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="AsteroidCollide&#10;Jan 27, 2019, 11:43">
+      <created>1548560637459</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1548560637460</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149061000" />
+    <option name="totallyTimeSpent" value="151123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -918,7 +931,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26535627" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -945,7 +958,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Knapsack 背包问题&#10;Dec 5, 2018, 19:34" />
     <MESSAGE value="OneAndZeros&#10;Dec 5, 2018, 20:51" />
     <MESSAGE value="LongestSubSequence       最长子序列系列&#10;Dec 8, 2018, 10:58" />
     <MESSAGE value="CourseSchedule   课程排序（拓扑排序）&#10;Dec 10, 2018, 10:27" />
@@ -970,7 +982,8 @@
     <MESSAGE value="ArrayOfDoubledPairs&#10;Jan 24, 2019, 10:30" />
     <MESSAGE value="132pattern&#10;Jan 25, 2019, 11:57" />
     <MESSAGE value="ArithmeticSlices&#10;Jan 26, 2019, 11:19" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArithmeticSlices&#10;Jan 26, 2019, 11:19" />
+    <MESSAGE value="AsteroidCollide&#10;Jan 27, 2019, 11:43" />
+    <option name="LAST_COMMIT_MESSAGE" value="AsteroidCollide&#10;Jan 27, 2019, 11:43" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1077,6 +1090,12 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/BasicCalculator.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1089,13 +1108,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestPairsSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/KthSmallest/KthSmallestInMultiplyTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -1395,6 +1407,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="489" column="34" selection-start-line="489" selection-start-column="31" selection-end-line="489" selection-end-column="34" />
+          <folding>
+            <element signature="e#6454#6455#0" expanded="true" />
+            <element signature="e#6495#6496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="335" column="6" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/DifferentWaysToAddParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -1402,6 +1432,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/ArithmeticSlices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/AsteroidsCollide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1449,37 +1493,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/ArithmeticSlices.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BasicCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="489" column="34" selection-start-line="489" selection-start-column="31" selection-end-line="489" selection-end-column="34" />
-          <folding>
-            <element signature="e#6454#6455#0" expanded="true" />
-            <element signature="e#6495#6496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="335" column="6" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/AsteroidsCollide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        <state relative-caret-position="243">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
           </folding>
         </state>
       </provider>
