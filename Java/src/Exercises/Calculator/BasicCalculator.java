@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Calculator;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
