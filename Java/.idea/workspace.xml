@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="CircularQueue&#10;Jan 29, 2019, 10:04">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" afterDir="false" />
+    <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Calculator/BasicCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="-863">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,49 +30,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Calculator/BasicCalculatorTwo.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="609">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StructureDesigning/MyCircularQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <element signature="e#1017#1018#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-                <element signature="e#1188#1189#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="85" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="42">
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestInceeasingSubsequence.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="251">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/FindPeakElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -153,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/Knapsack/OneAndZeros.java" />
-        <option value="$PROJECT_DIR$/src/DP/TrianglePathSum.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Knapsack/PerfectSquareNumber.java" />
         <option value="$PROJECT_DIR$/src/DP/LongestRepeatedSubarray.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestConsecutiveSequence.java" />
@@ -204,6 +195,9 @@
         <option value="$PROJECT_DIR$/src/StructureDesigning/MyCircularQueue.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java" />
       </list>
     </option>
   </component>
@@ -357,7 +351,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -381,20 +374,21 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="LongestSubsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548818659785" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548905763976" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -419,33 +413,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestValidParentheses">
-    <configuration name="AsteroidsCollide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.AsteroidsCollide" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Calculator.BasicCalculator" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WordSearch">
     <configuration name="BasicCalculatorTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Calculator.BasicCalculatorTwo" />
       <module name="Java" />
@@ -485,20 +453,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.NQueens" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.WordSearch" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AsteroidsCollide" />
-      <item itemvalue="Application.BasicCalculator" />
       <item itemvalue="Application.BasicCalculatorTwo" />
       <item itemvalue="Application.MyCircularQueue" />
       <item itemvalue="Application.LongestValidParentheses" />
+      <item itemvalue="Application.NQueens" />
+      <item itemvalue="Application.WordSearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordSearch" />
+        <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.LongestValidParentheses" />
         <item itemvalue="Application.MyCircularQueue" />
         <item itemvalue="Application.BasicCalculatorTwo" />
-        <item itemvalue="Application.BasicCalculator" />
-        <item itemvalue="Application.AsteroidsCollide" />
       </list>
     </recent_temporary>
   </component>
@@ -592,14 +586,9 @@
       <workItem from="1548678749576" duration="5048000" />
       <workItem from="1548766141510" duration="223000" />
       <workItem from="1548768772237" duration="7000" />
-      <workItem from="1548813950200" duration="2933000" />
-    </task>
-    <task id="LOCAL-00013" summary="ReverseNumber      逆序数&#10;Nov 12, 2018, 11:19">
-      <created>1541992749502</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1541992749502</updated>
+      <workItem from="1548813950200" duration="3288000" />
+      <workItem from="1548901226528" duration="67000" />
+      <workItem from="1548901310364" duration="2782000" />
     </task>
     <task id="LOCAL-00014" summary="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04">
       <created>1542074655261</created>
@@ -937,17 +926,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548727493407</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="LongestValidParentheses&#10;Jan 30, 2019, 11:26">
+      <created>1548818794087</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1548818794088</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158212000" />
+    <option name="totallyTimeSpent" value="161416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2353362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -956,7 +952,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26535627" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26535627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -984,7 +980,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CourseSchedule   课程排序（拓扑排序）&#10;Dec 10, 2018, 10:27" />
     <MESSAGE value="Shortest Bridge        最短的桥&#10;Dec 11, 2018, 09:57" />
     <MESSAGE value="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40" />
     <MESSAGE value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
@@ -1009,7 +1004,8 @@
     <MESSAGE value="AsteroidCollide&#10;Jan 27, 2019, 11:43" />
     <MESSAGE value="BasicCalculator&#10;Jan 28, 2019, 22:58" />
     <MESSAGE value="CircularQueue&#10;Jan 29, 2019, 10:04" />
-    <option name="LAST_COMMIT_MESSAGE" value="CircularQueue&#10;Jan 29, 2019, 10:04" />
+    <MESSAGE value="LongestValidParentheses&#10;Jan 30, 2019, 11:26" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestValidParentheses&#10;Jan 30, 2019, 11:26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1128,6 +1124,12 @@
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1140,34 +1142,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/ImportantReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/DivideAndConquer/CountSmallerNumberAfterSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1473,6 +1447,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StructureDesigning/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestInceeasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1517,33 +1511,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StructureDesigning/MyCircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestInceeasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="85" selection-end-column="22" />
+        <state relative-caret-position="-863">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>

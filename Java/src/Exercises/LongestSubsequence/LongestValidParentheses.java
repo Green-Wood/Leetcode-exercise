@@ -18,6 +18,7 @@ import java.util.Deque;
 解释: 最长有效括号子串为 "()()"
  */
 public class LongestValidParentheses {
+
     // Using stack
     public int longestValidParentheses(String s) {
         int maxLen = 0;
@@ -58,6 +59,7 @@ public class LongestValidParentheses {
         return max;
     }
 
+    // two pointers O(1) space
     public int twoPointers(String s) {
         int left = 0, right = 0;                     // 计数左括号和右括号的个数
         int maxLen = 0;
