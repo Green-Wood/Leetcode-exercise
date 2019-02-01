@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/SetMatrixZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/GenerateParentheses.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-863">
-              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,11 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="483">
+              <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/SetMatrixZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,18 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -147,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/Knapsack/PerfectSquareNumber.java" />
         <option value="$PROJECT_DIR$/src/DP/LongestRepeatedSubarray.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestConsecutiveSequence.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestPalindromeSubstring.java" />
@@ -198,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/SetMatrixZero.java" />
       </list>
     </option>
   </component>
@@ -369,13 +367,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -388,7 +379,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548905763976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548990138986" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -413,20 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordSearch">
-    <configuration name="BasicCalculatorTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Calculator.BasicCalculatorTwo" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SetMatrixZero">
     <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.LongestSubsequence.LongestValidParentheses" />
       <module name="Java" />
@@ -466,6 +444,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.SetMatrixZero" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Backtracking.WordSearch" />
       <module name="Java" />
@@ -480,19 +471,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicCalculatorTwo" />
       <item itemvalue="Application.MyCircularQueue" />
       <item itemvalue="Application.LongestValidParentheses" />
       <item itemvalue="Application.NQueens" />
       <item itemvalue="Application.WordSearch" />
+      <item itemvalue="Application.SetMatrixZero" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetMatrixZero" />
         <item itemvalue="Application.WordSearch" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.LongestValidParentheses" />
         <item itemvalue="Application.MyCircularQueue" />
-        <item itemvalue="Application.BasicCalculatorTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -588,14 +579,7 @@
       <workItem from="1548768772237" duration="7000" />
       <workItem from="1548813950200" duration="3288000" />
       <workItem from="1548901226528" duration="67000" />
-      <workItem from="1548901310364" duration="2782000" />
-    </task>
-    <task id="LOCAL-00014" summary="MinimalNumberOfRefueling   最小加油次数&#10;Nov 13, 2018, 10:04">
-      <created>1542074655261</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1542074655261</updated>
+      <workItem from="1548901310364" duration="4237000" />
     </task>
     <task id="LOCAL-00015" summary="MaximalRectangle 最大矩形面积&#10;Nov 14, 2018, 15:57">
       <created>1542182268168</created>
@@ -933,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548818794088</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="DepthFirstSearch&#10;Jan 31, 2019, 11:36">
+      <created>1548905818875</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1548905818875</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161416000" />
+    <option name="totallyTimeSpent" value="162871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -952,8 +943,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26535627" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26535627" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -980,7 +971,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Shortest Bridge        最短的桥&#10;Dec 11, 2018, 09:57" />
     <MESSAGE value="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40" />
     <MESSAGE value="NonRecursive traversal&#10;Dec 25, 2018, 14:50" />
     <MESSAGE value="DifferentWaysToAddParentheses&#10;Jan 10, 2019, 10:08" />
@@ -1005,7 +995,8 @@
     <MESSAGE value="BasicCalculator&#10;Jan 28, 2019, 22:58" />
     <MESSAGE value="CircularQueue&#10;Jan 29, 2019, 10:04" />
     <MESSAGE value="LongestValidParentheses&#10;Jan 30, 2019, 11:26" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestValidParentheses&#10;Jan 30, 2019, 11:26" />
+    <MESSAGE value="DepthFirstSearch&#10;Jan 31, 2019, 11:36" />
+    <option name="LAST_COMMIT_MESSAGE" value="DepthFirstSearch&#10;Jan 31, 2019, 11:36" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1130,6 +1121,12 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/SetMatrixZero.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1142,13 +1139,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/MinimumSizeSubarraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/MinWindowSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -1514,7 +1504,7 @@
     <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-863">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1547,8 +1537,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="483">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/SetMatrixZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
