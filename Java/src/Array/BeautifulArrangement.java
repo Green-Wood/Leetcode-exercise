@@ -24,18 +24,14 @@ i 能被第 i 位上的数字整除
  */
 public class BeautifulArrangement {
 
-    List<List<Integer>> l;
-
     public int countArrangement(int N) {
         boolean[] used = new boolean[N+1];
         ArrayList<Integer> list = new ArrayList<>();
-        l = new ArrayList<>();
         return helper(1, list, used);
     }
 
     private int helper(int i, ArrayList<Integer> list, boolean[] used) {
         if (i == used.length) {
-            l.add((List<Integer>) list.clone());
             return 1;
         } else {
             int n = 0;
@@ -57,10 +53,6 @@ public class BeautifulArrangement {
     public static void main(String[] args) {
         BeautifulArrangement solution = new BeautifulArrangement();
         int n = solution.countArrangement(11);
-        List<List<Integer>> ans = solution.l;
-        System.out.println("total: " + n);
-        for (List<Integer> list: ans) {
-            System.out.println(list);
-        }
+        System.out.println(n);
     }
 }
