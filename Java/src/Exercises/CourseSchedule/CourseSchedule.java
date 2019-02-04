@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.CourseSchedule;
 
 import java.util.*;
 
@@ -36,7 +36,7 @@ import java.util.*;
  */
 public class CourseSchedule {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[][] adj = new int[numCourses][numCourses];
+        int[][] adj = new int[numCourses][numCourses];              // 能否完成
         int[] inDegree = new int[numCourses];
         for (int[] tuple: prerequisites) {
             int from = tuple[0];
@@ -67,7 +67,7 @@ public class CourseSchedule {
         return finishNum == numCourses;
     }
 
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
+    public int[] findOrder(int numCourses, int[][] prerequisites) {       // 寻找学习顺序
         int[][] adj = new int[numCourses][numCourses];
         int[] inDegree = new int[numCourses];
         for (int[] tuple: prerequisites) {
