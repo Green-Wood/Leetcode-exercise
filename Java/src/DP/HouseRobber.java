@@ -7,8 +7,16 @@ package DP;
 状态转移：dp[i] = Max(nums[i] + dp[i-2], dp[i-1])
 
 dp[i] 表示i及以前的所能够偷窃的最高金额
+
+
+1、Find recursive relation
+2、Recursive (top-down)    自顶向下
+3、Recursive + memo (top-down)
+4、Iterative + memo (bottom-up)     自底向上
+5、Iterative + N variables (bottom-up)
  */
 public class HouseRobber {
+
     public int rob(int[] nums) {
         if (nums.length == 0 || nums == null) return 0;
         if (nums.length == 1) return nums[0];
@@ -21,5 +29,17 @@ public class HouseRobber {
         }
 
         return dp[dp.length-1];
+    }
+
+    public int twoVariable(int[] nums) {
+        if (nums.length == 0) return 0;
+        int prev_i_2 = 0;
+        int prev_i_1 = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int curr = Math.max(prev_i_2 + nums[i], prev_i_1);
+            prev_i_2 = prev_i_1;
+            prev_i_1 = curr;
+        }
+        return prev_i_1;
     }
 }
