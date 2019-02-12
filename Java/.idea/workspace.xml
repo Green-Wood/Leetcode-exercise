@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/OddEvenJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/OddEvenJump.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/MinimumCostForTicket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DP/OddEvenJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
+            <state relative-caret-position="1155">
               <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+            <state relative-caret-position="1407">
+              <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,15 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-              <folding>
-                <element signature="e#941#942#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="472">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -147,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/RangeModule.java" />
         <option value="$PROJECT_DIR$/src/Array/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" />
@@ -198,12 +188,14 @@
         <option value="$PROJECT_DIR$/src/Exercises/SumOfSubarrayMinimal.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -388,7 +380,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549856671040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549889288080" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -422,13 +414,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StockSpanner">
-    <configuration name="LargestDivisibleSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.LongestSubsequence.LargestDivisibleSubset" />
+  <component name="RunManager" selected="Application.NextGreaterElement1">
+    <configuration name="MinimumCostForTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MinimumCostForTicket" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.LongestSubsequence.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,12 +428,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumCostForTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.MinimumCostForTicket" />
+    <configuration name="NextGreaterElement1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.MonotoneStack.NextGreaterElement1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="Exercises.MonotoneStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,19 +481,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LargestDivisibleSubset" />
       <item itemvalue="Application.MinimumCostForTicket" />
       <item itemvalue="Application.OddEvenJump" />
       <item itemvalue="Application.SumOfSubarrayMinimal" />
       <item itemvalue="Application.StockSpanner" />
+      <item itemvalue="Application.NextGreaterElement1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextGreaterElement1" />
         <item itemvalue="Application.StockSpanner" />
         <item itemvalue="Application.SumOfSubarrayMinimal" />
         <item itemvalue="Application.OddEvenJump" />
         <item itemvalue="Application.MinimumCostForTicket" />
-        <item itemvalue="Application.LargestDivisibleSubset" />
       </list>
     </recent_temporary>
   </component>
@@ -610,13 +602,8 @@
       <workItem from="1549677226834" duration="2334000" />
       <workItem from="1549773480393" duration="3497000" />
       <workItem from="1549851849621" duration="3005000" />
-    </task>
-    <task id="LOCAL-00025" summary="KthLargestNumber    数组中第k大的数（数量）&#10;LargestRectangleInHistogram    直方图中最大的矩形&#10;Nov 24, 2018, 13:24">
-      <created>1543037101631</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1543037101631</updated>
+      <workItem from="1549856727055" duration="43000" />
+      <workItem from="1549888365540" duration="991000" />
     </task>
     <task id="LOCAL-00026" summary="SymmetricTree     对称二叉树&#10;Nov 27, 2018, 11:37">
       <created>1543289828818</created>
@@ -954,16 +941,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549778274086</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Monotone stack&#10;Feb 11, 2019, 11:45">
+      <created>1549856753984</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1549856753985</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197444000" />
+    <option name="totallyTimeSpent" value="198478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27753934" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2846924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -972,8 +967,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34889436" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980344" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34850454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3979194" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1000,7 +995,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CombinationSum3&#10;Jan 16, 2019, 09:52" />
     <MESSAGE value="Combination&#10;Jan 17, 2019, 22:29" />
     <MESSAGE value="InsertIntervals&#10;Jan 18, 2019, 09:34" />
     <MESSAGE value="RangeModule&#10;Jan 18, 2019, 16:02" />
@@ -1025,7 +1019,8 @@
     <MESSAGE value="LargestDivisibleSubset&#10;Feb 8, 2019, 10:47" />
     <MESSAGE value="MinimalCostForTicket&#10;Feb 9, 2019, 10:48" />
     <MESSAGE value="OddEvenJump&#10;Feb 10, 2019, 13:57" />
-    <option name="LAST_COMMIT_MESSAGE" value="OddEvenJump&#10;Feb 10, 2019, 13:57" />
+    <MESSAGE value="Monotone stack&#10;Feb 11, 2019, 11:45" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monotone stack&#10;Feb 11, 2019, 11:45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1180,6 +1175,12 @@
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1192,16 +1193,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
@@ -1519,6 +1510,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/OddEvenJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/SubsetsUnique.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -1540,34 +1551,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/OddEvenJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-          <folding>
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="472">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
         </state>
       </provider>
     </entry>
