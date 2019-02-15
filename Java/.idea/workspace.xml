@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/EggsFall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/FindPeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/HappyEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/HappyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/MaxPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/NimGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/RangeSumQueryMutable$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/RangeSumQueryMutable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/SkyLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/TopKFrequent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/TopKFrequent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/checkInclusion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/getKthPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/groupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/myPow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercises/sortColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/ArrayOfDoubledPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/CherryPickUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/CherryPickUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/DailyTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/DailyTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/EggsFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/EggsFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/FindPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/GameOfLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/HappyEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/HappyEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/MaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/MergeAndInsertIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/MergeAndInsertIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/MinWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/MinWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/MinimalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/MinimalRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/NimGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/NimGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/RangeSumQueryMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/RangeSumQueryMutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/SetMatrixZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/SetMatrixZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ShortestBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/ShortestBridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/SkyLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/SkyLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/TopKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/TopKFrequent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/checkInclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/checkInclusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/getKthPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/getKthPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/groupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/groupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/myPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/myPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/sortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/sortColors.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,106 +56,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MinimalRectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MergeAndInsertIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="89">
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/OddEvenJump.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/sortColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SkyLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1407">
-              <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ShortestBridge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="243">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SetMatrixZero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement2.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/RangeSumQueryMutable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-747">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/CourseSchedule/CourseSchedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement3.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="247">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
               <folding>
-                <element signature="e#1227#1228#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/SubsetsUnique.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/groupAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/ShortestCharDist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,9 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/TwoKeysKeyboard.java" />
-        <option value="$PROJECT_DIR$/src/DP/OneZeroMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/ArrayOfDoubledPairs.java" />
         <option value="$PROJECT_DIR$/src/List/TwoNumberSum.java" />
         <option value="$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java" />
         <option value="$PROJECT_DIR$/src/Array/ArithmeticSlices.java" />
@@ -195,12 +223,15 @@
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement2.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement3.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar1.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="720" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -349,6 +380,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -371,22 +404,19 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="MonotoneStack" type="462c0819:PsiDirectoryNode" />
+              <item name="StructureDesigning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550111764739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550197089974" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -420,7 +450,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextGreaterElement3">
+  <component name="RunManager" selected="Application.MyCalendar">
+    <configuration name="MyCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Calendar.MyCalendar" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NextGreaterElement1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.MonotoneStack.NextGreaterElement1" />
       <module name="Java" />
@@ -473,33 +516,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSubarrayMinimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.MonotoneStack.SumOfSubarrayMinimal" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.MonotoneStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SumOfSubarrayMinimal" />
       <item itemvalue="Application.StockSpanner" />
       <item itemvalue="Application.NextGreaterElement1" />
       <item itemvalue="Application.NextGreaterElement2" />
       <item itemvalue="Application.NextGreaterElement3" />
+      <item itemvalue="Application.MyCalendar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCalendar" />
         <item itemvalue="Application.NextGreaterElement3" />
         <item itemvalue="Application.NextGreaterElement2" />
         <item itemvalue="Application.NextGreaterElement1" />
         <item itemvalue="Application.StockSpanner" />
-        <item itemvalue="Application.SumOfSubarrayMinimal" />
       </list>
     </recent_temporary>
   </component>
@@ -610,14 +640,10 @@
       <workItem from="1549851849621" duration="3005000" />
       <workItem from="1549856727055" duration="43000" />
       <workItem from="1549888365540" duration="2445000" />
-      <workItem from="1550061492166" duration="3139000" />
-    </task>
-    <task id="LOCAL-00028" summary="RangeSumQueryMutable    可变的数组和查询器&#10;Dec 2, 2018, 16:46">
-      <created>1543740392746</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1543740392746</updated>
+      <workItem from="1550061492166" duration="3183000" />
+      <workItem from="1550195643889" duration="51000" />
+      <workItem from="1550195710982" duration="114000" />
+      <workItem from="1550195839987" duration="1218000" />
     </task>
     <task id="LOCAL-00029" summary="TrappingRainWater    接雨水&#10;Dec 3, 2018, 19:56">
       <created>1543838224057</created>
@@ -955,17 +981,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550061653796</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="NextGreaterElement3&#10;Feb 14, 2019, 10:39">
+      <created>1550111963155</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1550111963155</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203071000" />
+    <option name="totallyTimeSpent" value="204498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28826895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3004292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1002,7 +1035,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RangeModule&#10;Jan 18, 2019, 16:02" />
     <MESSAGE value="FirstMissingPositive&#10;Jan 20, 2019, 10:32" />
     <MESSAGE value="TwoKeysKeyboard&#10;Jan 21, 2019, 12:57" />
     <MESSAGE value="TwoKeysKeyboard explanation&#10;Jan 21, 2019, 12:57" />
@@ -1027,7 +1059,8 @@
     <MESSAGE value="Monotone stack&#10;Feb 11, 2019, 11:45" />
     <MESSAGE value="NextBiggerElement&#10;Feb 12, 2019, 22:52" />
     <MESSAGE value="NextBiggerElement2&#10;Feb 13, 2019, 20:40" />
-    <option name="LAST_COMMIT_MESSAGE" value="NextBiggerElement2&#10;Feb 13, 2019, 20:40" />
+    <MESSAGE value="NextGreaterElement3&#10;Feb 14, 2019, 10:39" />
+    <option name="LAST_COMMIT_MESSAGE" value="NextGreaterElement3&#10;Feb 14, 2019, 10:39" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1039,7 +1072,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/EggsFall.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/EggsFall.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="5" />
@@ -1063,7 +1096,7 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/SkyLine.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/SkyLine.java</url>
           <line>67</line>
           <properties />
           <option name="timeStamp" value="20" />
@@ -1087,7 +1120,7 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/DailyTemperature.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/DailyTemperature.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="27" />
@@ -1105,7 +1138,7 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/MinWindowSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/MinWindowSubstring.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="30" />
@@ -1153,13 +1186,13 @@
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/SetMatrixZero.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/SetMatrixZero.java</url>
           <line>67</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/CherryPickUp.java</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/Others/CherryPickUp.java</url>
           <line>71</line>
           <properties />
           <option name="timeStamp" value="41" />
@@ -1200,6 +1233,12 @@
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1212,124 +1251,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/PermutationUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/SplitArrayLargestSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/DFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/List/SwapNodeInPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Subsets.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercises/SetMatrixZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StructureDesigning/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/removeDuplicates.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock.java" />
-    <entry file="file://$PROJECT_DIR$/src/Array/longestMountain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/MajorityNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/maxSumSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/N_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/OneThreeTwoPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="5141" column="36" selection-start-line="5141" selection-start-column="36" selection-end-line="5141" selection-end-column="36" />
-          <folding>
-            <element signature="e#198495#198496#0" expanded="true" />
-            <element signature="e#198565#198566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="805" column="25" selection-start-line="805" selection-start-column="25" selection-end-line="805" selection-end-column="25" />
-          <folding>
-            <element signature="e#33242#33243#0" expanded="true" />
-            <element signature="e#33327#33328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Java/Exercises/GameOfLife.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1352,20 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CherryPickUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CourseSchedule/CourseSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/CourseSchedule/MaxCoursesCanTake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1376,14 +1283,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/GameOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="102" column="32" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MaxPQ.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
@@ -1505,7 +1405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MinimalRectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MinimalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
@@ -1525,6 +1425,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Calendar.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1407">
@@ -1539,6 +1440,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1563,29 +1492,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ArrayOfDoubledPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="243">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement2.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/checkInclusion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="243">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/CherryPickUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/DailyTemperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/EggsFall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/GameOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/getKthPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/groupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MergeAndInsertIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/sortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SkyLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ShortestBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SetMatrixZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/RangeSumQueryMutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-747">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/CourseSchedule/CourseSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
           </folding>
         </state>
       </provider>
