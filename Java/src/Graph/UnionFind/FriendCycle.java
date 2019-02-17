@@ -1,4 +1,4 @@
-package Exercises.UnionFind;
+package Graph.UnionFind;
 /*
 
 LeetCode No. (547)
