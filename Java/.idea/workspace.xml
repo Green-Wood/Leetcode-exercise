@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="294">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,29 +68,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/checkInclusion.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/getKthPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MinWindowSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="541">
+              <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StructureDesigning/CircularQueue.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/MyCircularQueue.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" />
@@ -197,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/Array/QueueReconstructByHeight.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Others/SmallestRange.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java" />
       </list>
     </option>
   </component>
@@ -375,7 +361,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Others" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,7 +374,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550458676684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550461522993" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -422,13 +408,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestRange">
-    <configuration name="MyCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Calendar.MyCalendar" />
+  <component name="RunManager" selected="Application.BoatsToSavePeople">
+    <configuration name="BoatsToSavePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.DoublePoint.BoatsToSavePeople" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Calendar.*" />
+          <option name="PATTERN" value="Exercises.DoublePoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,12 +422,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElement3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.MonotoneStack.NextGreaterElement3" />
+    <configuration name="MyCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Calendar.MyCalendar" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.MonotoneStack.*" />
+          <option name="PATTERN" value="Exercises.Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,19 +475,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NextGreaterElement3" />
       <item itemvalue="Application.MyCalendar" />
       <item itemvalue="Application.PossibleBipartition" />
       <item itemvalue="Application.QueueReconstructByHeight" />
       <item itemvalue="Application.SmallestRange" />
+      <item itemvalue="Application.BoatsToSavePeople" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoatsToSavePeople" />
         <item itemvalue="Application.SmallestRange" />
         <item itemvalue="Application.QueueReconstructByHeight" />
         <item itemvalue="Application.PossibleBipartition" />
         <item itemvalue="Application.MyCalendar" />
-        <item itemvalue="Application.NextGreaterElement3" />
       </list>
     </recent_temporary>
   </component>
@@ -618,14 +604,7 @@
       <workItem from="1550195839987" duration="2035000" />
       <workItem from="1550281264557" duration="3977000" />
       <workItem from="1550376446471" duration="2224000" />
-      <workItem from="1550398179117" duration="6601000" />
-    </task>
-    <task id="LOCAL-00032" summary="Knapsack 背包问题&#10;Dec 5, 2018, 19:34">
-      <created>1544009703713</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1544009703713</updated>
+      <workItem from="1550398179117" duration="8924000" />
     </task>
     <task id="LOCAL-00033" summary="Knapsack 背包问题&#10;Dec 5, 2018, 19:34">
       <created>1544010397188</created>
@@ -963,17 +942,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550410105106</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="ValidSudoku&#10;Feb 18, 2019, 10:58">
+      <created>1550458739673</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1550458739673</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218117000" />
+    <option name="totallyTimeSpent" value="220440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26180258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1010,7 +996,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayOfDoubledPairs&#10;Jan 24, 2019, 10:30" />
     <MESSAGE value="132pattern&#10;Jan 25, 2019, 11:57" />
     <MESSAGE value="ArithmeticSlices&#10;Jan 26, 2019, 11:19" />
     <MESSAGE value="AsteroidCollide&#10;Jan 27, 2019, 11:43" />
@@ -1035,7 +1020,8 @@
     <MESSAGE value="MyCalendar&#10;Feb 15, 2019, 10:21" />
     <MESSAGE value="PossibleBipartition&#10;Feb 16, 2019, 20:40" />
     <MESSAGE value="SmallestRange&#10;Feb 17, 2019, 21:28" />
-    <option name="LAST_COMMIT_MESSAGE" value="SmallestRange&#10;Feb 17, 2019, 21:28" />
+    <MESSAGE value="ValidSudoku&#10;Feb 18, 2019, 10:58" />
+    <option name="LAST_COMMIT_MESSAGE" value="ValidSudoku&#10;Feb 18, 2019, 10:58" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1220,6 +1206,12 @@
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1232,20 +1224,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/CanJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/JumpGame2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/EatingBanana.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1280,24 +1258,6 @@
           <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/NavigableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="168" column="19" selection-start-line="168" selection-start-column="19" selection-end-line="168" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="739" column="35" lean-forward="true" selection-start-line="739" selection-start-column="35" selection-end-line="739" selection-end-column="35" />
-          <folding>
-            <element signature="e#25966#25967#0" expanded="true" />
-            <element signature="e#26022#26023#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1612,8 +1572,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ValidSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="294">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="153" column="6" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="215" column="6" selection-start-line="215" selection-start-column="6" selection-end-line="215" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="287" column="13" selection-start-line="287" selection-start-column="13" selection-end-line="287" selection-end-column="13" />
+          <folding>
+            <element signature="e#11322#11323#0" expanded="true" />
+            <element signature="e#11365#11366#0" expanded="true" />
+            <element signature="e#25608#25609#0" expanded="true" />
+            <element signature="e#25660#25661#0" expanded="true" />
+            <element signature="e#25966#25967#0" expanded="true" />
+            <element signature="e#26022#26023#0" expanded="true" />
+            <element signature="e#26313#26314#0" expanded="true" />
+            <element signature="e#26367#26368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
