@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/LinkedListFindCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -79,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            <state relative-caret-position="331">
+              <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/List/LinkedListFindCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/Exercises/SetMatrixZero.java" />
@@ -191,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/Exercises/BinarySearch/BoatsToSavePeople.java" />
         <option value="$PROJECT_DIR$/src/Exercises/DoublePoint/BoatsToSavePeople.java" />
         <option value="$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java" />
+        <option value="$PROJECT_DIR$/src/List/LinkedList1.java" />
+        <option value="$PROJECT_DIR$/src/List/LinkedListFindCycle.java" />
       </list>
     </option>
   </component>
@@ -361,7 +373,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -375,7 +387,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550543249875" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550544902228" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -606,14 +618,7 @@
       <workItem from="1550281264557" duration="3977000" />
       <workItem from="1550376446471" duration="2224000" />
       <workItem from="1550398179117" duration="9063000" />
-      <workItem from="1550541108777" duration="1302000" />
-    </task>
-    <task id="LOCAL-00034" summary="OneAndZeros&#10;Dec 5, 2018, 20:51">
-      <created>1544014287035</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1544014287035</updated>
+      <workItem from="1550541108777" duration="3120000" />
     </task>
     <task id="LOCAL-00035" summary="LongestSubSequence       最长子序列系列&#10;Dec 8, 2018, 10:58">
       <created>1544237920155</created>
@@ -951,17 +956,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550461547642</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="MaxPathSum&#10;Feb 19, 2019, 10:28">
+      <created>1550543326499</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1550543326500</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221881000" />
+    <option name="totallyTimeSpent" value="223699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -998,7 +1010,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArithmeticSlices&#10;Jan 26, 2019, 11:19" />
     <MESSAGE value="AsteroidCollide&#10;Jan 27, 2019, 11:43" />
     <MESSAGE value="BasicCalculator&#10;Jan 28, 2019, 22:58" />
     <MESSAGE value="CircularQueue&#10;Jan 29, 2019, 10:04" />
@@ -1023,7 +1034,8 @@
     <MESSAGE value="SmallestRange&#10;Feb 17, 2019, 21:28" />
     <MESSAGE value="ValidSudoku&#10;Feb 18, 2019, 10:58" />
     <MESSAGE value="BoatsToSavePeople&#10;Feb 18, 2019, 11:45" />
-    <option name="LAST_COMMIT_MESSAGE" value="BoatsToSavePeople&#10;Feb 18, 2019, 11:45" />
+    <MESSAGE value="MaxPathSum&#10;Feb 19, 2019, 10:28" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaxPathSum&#10;Feb 19, 2019, 10:28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1216,7 +1228,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java</url>
-          <line>53</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
@@ -1232,13 +1244,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -1624,8 +1629,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="331">
+          <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List/LinkedListFindCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
