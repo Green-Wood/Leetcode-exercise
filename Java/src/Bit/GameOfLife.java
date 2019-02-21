@@ -1,4 +1,4 @@
-package Exercises.Others;
+package Bit;
 
 import java.io.IOException;
 
