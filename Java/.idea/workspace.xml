@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bit/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ProductOfArrayExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MultiplyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MultiplyString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Others/GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit/GameOfLife.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,18 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/DoublePoint/BoatsToSavePeople.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/MaxPathNodeSum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,8 +61,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/MultiplyString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="273">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/ProductOfArrayExceptSelf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -90,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bit/PowerOfTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="441">
+              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="e#208#209#0" expanded="true" />
                 <element signature="e#256#257#0" expanded="true" />
@@ -157,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/Subsets.java" />
         <option value="$PROJECT_DIR$/src/StructureDesigning/MinStack.java" />
         <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/Three.java" />
         <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/Two.java" />
@@ -208,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/List/SortList.java" />
         <option value="$PROJECT_DIR$/src/Array/MultiplyString.java" />
         <option value="$PROJECT_DIR$/src/Bit/PowerOfTwo.java" />
+        <option value="$PROJECT_DIR$/src/Array/ProductOfArrayExceptSelf.java" />
       </list>
     </option>
   </component>
@@ -379,7 +374,7 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Bit" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +387,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550749462355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550820160656" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -625,14 +620,7 @@
       <workItem from="1550398179117" duration="9063000" />
       <workItem from="1550541108777" duration="3179000" />
       <workItem from="1550627034900" duration="3231000" />
-      <workItem from="1550749199784" duration="250000" />
-    </task>
-    <task id="LOCAL-00037" summary="Shortest Bridge        最短的桥&#10;Dec 11, 2018, 09:57">
-      <created>1544493442972</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1544493442973</updated>
+      <workItem from="1550749199784" duration="1057000" />
     </task>
     <task id="LOCAL-00038" summary="DailyTemperature and SwapNodeInPairs&#10;Dec 16, 2018, 15:40">
       <created>1544946006666</created>
@@ -970,11 +958,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550630452485</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="PowerOfTwo&#10;Feb 21, 2019, 19:45">
+      <created>1550749546616</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1550749546617</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227239000" />
+    <option name="totallyTimeSpent" value="228046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -1017,7 +1012,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CircularQueue&#10;Jan 29, 2019, 10:04" />
     <MESSAGE value="LongestValidParentheses&#10;Jan 30, 2019, 11:26" />
     <MESSAGE value="DepthFirstSearch&#10;Jan 31, 2019, 11:36" />
     <MESSAGE value="SetMatrixZero&#10;Feb 1, 2019, 11:04" />
@@ -1042,7 +1036,8 @@
     <MESSAGE value="MaxPathSum&#10;Feb 19, 2019, 10:28" />
     <MESSAGE value="LinkedListFindCycle&#10;Feb 19, 2019, 10:59" />
     <MESSAGE value="SortList &amp; MultiplyString&#10;Feb 20, 2019, 10:40" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortList &amp; MultiplyString&#10;Feb 20, 2019, 10:40" />
+    <MESSAGE value="PowerOfTwo&#10;Feb 21, 2019, 19:45" />
+    <option name="LAST_COMMIT_MESSAGE" value="PowerOfTwo&#10;Feb 21, 2019, 19:45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1263,16 +1258,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/MinimumCostForTicket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/MaxSquare/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -1639,13 +1624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/MultiplyString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bit/GameOfLife.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1655,14 +1633,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bit/PowerOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="441">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="e#208#209#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#345#346#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MultiplyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/ProductOfArrayExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
