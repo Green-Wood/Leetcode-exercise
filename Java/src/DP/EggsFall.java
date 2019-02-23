@@ -1,4 +1,4 @@
-package Exercises.Others;
+package DP;
 
 public class EggsFall {
     public int superEggDrop(int K, int N) {

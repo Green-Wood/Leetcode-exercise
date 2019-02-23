@@ -1,4 +1,4 @@
-package Exercises.Others;
+package Exercises.BinarySearch;
 
 public class FindPeakElement {
     public int findPeakElement(int[] nums) {
