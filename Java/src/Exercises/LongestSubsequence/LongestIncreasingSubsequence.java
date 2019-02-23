@@ -2,7 +2,8 @@ package Exercises.LongestSubsequence;
 
 import java.util.Arrays;
 
-public class LongestInceeasingSubsequence {
+public class LongestIncreasingSubsequence {
+    // O(n^2)
     public int LIS_Squre(int[] nums){
         int[] dp = new int[nums.length];
         Arrays.fill(dp, 1);
@@ -16,6 +17,24 @@ public class LongestInceeasingSubsequence {
             result = Math.max(result, dp[i]);
         }
         return result;
+    }
+    // O(nlogn)
+    /* Note: dp array does not result in longest increasing subsequence,
+     but length of dp array will give you length of LIS.*/
+    public int LIS_NlogN(int[] nums) {
+        int[] dp = new int[nums.length];
+        int len = 0;
+        for (int n: nums) {
+            int i = Arrays.binarySearch(dp, 0, len, n);
+            if (i < 0) {
+                i = -(i + 1);
+            }
+            dp[i] = n;
+            if (i == len) {
+                len++;
+            }
+        }
+        return len;
     }
 
     public static void main(String[] args){
