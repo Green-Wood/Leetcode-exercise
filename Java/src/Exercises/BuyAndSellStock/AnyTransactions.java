@@ -27,6 +27,10 @@ package Exercises.BuyAndSellStock;
 
 
 HINT: 注意到，我们能够得到的最大利润之和为所有爬升高度之和。
+
+own[i] = max(owm[i-1], not_own[i-1] - price)
+not_own[i] = max(not_own[i-1], own[i-1] + price)
+
  */
 public class AnyTransactions {
     public int maxProfit(int[] prices) {
@@ -37,5 +41,19 @@ public class AnyTransactions {
             }
         }
         return maxProfit;
+    }
+
+    public int general(int[] prices) {
+        int own = Integer.MIN_VALUE, not_won = 0;
+        for (int price: prices) {
+            int prev_own = own;
+            own = Math.max(prev_own, not_won - price);
+            not_won = Math.max(not_won, prev_own + price);
+        }
+        return not_won;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new AnyTransactions().general(new int[]{7, 6, 3, 1}));
     }
 }

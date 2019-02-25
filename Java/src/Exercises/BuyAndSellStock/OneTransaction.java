@@ -17,6 +17,10 @@ package Exercises.BuyAndSellStock;
 输入: [7,6,4,3,1]
 输出: 0
 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
+
+own[i] = max(own[i-1], 0 - price)
+not_own[i] = max(not_own[i-1], own[i-1] + price)
+
  */
 public class OneTransaction {
     public int maxProfit(int[] prices) {
@@ -33,12 +37,12 @@ public class OneTransaction {
     }
 
     public int generalSolution(int[] prices) {
-        int buy = Integer.MIN_VALUE;
-        int sell = 0;
-        for (int p: prices) {
-            buy = Math.max(buy, -p);
-            sell = Math.max(sell, buy + p);
+        int own = Integer.MIN_VALUE, not_own = 0;
+        for (int price: prices) {
+            int prev_own = own;
+            own = Math.max(prev_own, -price);
+            not_own = Math.max(not_own, prev_own + price);
         }
-        return sell;
+        return not_own;
     }
 }

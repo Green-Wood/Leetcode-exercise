@@ -40,16 +40,26 @@ sell2 means we want to sell stock2, we can have price[i] money after selling it,
 so sell2 = buy2 + prices[i], we make this max.
 
 So sell2 is the most money we can have.
+
+标准格式
+own1[i] = max(own1[i-1], 0-price)
+not_own1[i] = max(not_own1[i-1], own1[i-1] + price)
+own2[i] = max(own2[i-1], not_own1[i-1] - price)
+not_own2[i] = max(not_own2[i-1], own2[i-1] + price)
+
  */
 public class TwoTransActions {
     public int maxProfit(int[] prices) {
         int sell1 = 0, sell2 = 0;
         int buy1 = Integer.MIN_VALUE, buy2 = Integer.MIN_VALUE;
         for (int p: prices) {
-            buy1 = Math.max(buy1, -p);
-            sell1 = Math.max(sell1, buy1 + p);
-            buy2 = Math.max(buy2, sell1 - p);
-            sell2 = Math.max(sell2, buy2 + p);
+            int prev_buy1 = buy1;
+            buy1 = Math.max(prev_buy1, -p);
+            int prev_sell1 = sell1;
+            sell1 = Math.max(prev_sell1, prev_buy1 + p);
+            int prev_buy2 = buy2;
+            buy2 = Math.max(prev_buy2, prev_sell1 - p);
+            sell2 = Math.max(sell2, prev_buy2 + p);
         }
         return sell2;
     }

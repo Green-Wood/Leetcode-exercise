@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Backtracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithFee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/CoinChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Knapsack/OneAndZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/OneAndZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Knapsack/PartitionEqualSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/PartitionEqualSubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Knapsack/PerfectSquareNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/PerfectSquareNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,68 +39,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/FindPeakElement.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestConsecutiveSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/FirstAndLastPositionInSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BinarySearch/SearchInRotatedSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/RussianDollEnvelopes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/SudokuSolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
               <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#1379#1380#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestIncreasingSubsequence.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="2016">
+              <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithCooldown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithFee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -147,12 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/CourseSchedule.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/CourseSchedule/CourseSchedule.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/CourseSchedule/MaxCoursesCanTake.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/GameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/DP/HouseRobber.java" />
-        <option value="$PROJECT_DIR$/src/DP/HouseRobber2.java" />
         <option value="$PROJECT_DIR$/src/DP/HouseRobber3.java" />
         <option value="$PROJECT_DIR$/src/Exercises/CanJump.java" />
         <option value="$PROJECT_DIR$/src/DP/CanJump.java" />
@@ -198,6 +202,12 @@
         <option value="$PROJECT_DIR$/src/DP/RussianDollEnvelopes.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/SudukuSolver.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Backtracking/SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithCooldown.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithFee.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java" />
       </list>
     </option>
   </component>
@@ -353,6 +363,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -376,20 +387,19 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
+              <item name="BuyAndSellStock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550977246345" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551079134336" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -423,13 +433,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SudokuSolver">
-    <configuration name="MultiplyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MultiplyString" />
+  <component name="RunManager" selected="Application.KTransactions">
+    <configuration name="AnyTransactions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.BuyAndSellStock.AnyTransactions" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Exercises.BuyAndSellStock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnyTransactionsWithFee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.BuyAndSellStock.AnyTransactionsWithFee" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.BuyAndSellStock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTransactions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.BuyAndSellStock.KTransactions" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.BuyAndSellStock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,32 +479,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.BinarySearch.SearchInRotatedSortedArray" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.SortList" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -490,19 +500,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortList" />
-      <item itemvalue="Application.MultiplyString" />
-      <item itemvalue="Application.SearchInRotatedSortedArray" />
       <item itemvalue="Application.RussianDollEnvelopes" />
       <item itemvalue="Application.SudokuSolver" />
+      <item itemvalue="Application.AnyTransactionsWithFee" />
+      <item itemvalue="Application.AnyTransactions" />
+      <item itemvalue="Application.KTransactions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KTransactions" />
+        <item itemvalue="Application.AnyTransactions" />
+        <item itemvalue="Application.AnyTransactionsWithFee" />
         <item itemvalue="Application.SudokuSolver" />
         <item itemvalue="Application.RussianDollEnvelopes" />
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.MultiplyString" />
-        <item itemvalue="Application.SortList" />
       </list>
     </recent_temporary>
   </component>
@@ -623,14 +633,8 @@
       <workItem from="1550541108777" duration="3179000" />
       <workItem from="1550627034900" duration="3231000" />
       <workItem from="1550749199784" duration="5907000" />
-      <workItem from="1550974638177" duration="2423000" />
-    </task>
-    <task id="LOCAL-00041" summary="BinarySearch&#10;Jan 11, 2019, 09:54">
-      <created>1547171661819</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1547171661819</updated>
+      <workItem from="1550974638177" duration="2973000" />
+      <workItem from="1551061004340" duration="7130000" />
     </task>
     <task id="LOCAL-00042" summary="最小子串覆盖问题&#10;Jan 12, 2019, 10:28">
       <created>1547260111343</created>
@@ -968,17 +972,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550890772437</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Sudoku Solver&#10;Feb 24, 2019, 11:03">
+      <created>1550977408892</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1550977408892</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235319000" />
+    <option name="totallyTimeSpent" value="242999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27968526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -996,7 +1007,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.96314496" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32923833" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32923833" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899868" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="13" weight="0.52334154" />
       <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32899868" />
@@ -1016,7 +1027,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BestTimeToSellAndBuyStock&#10;Feb 2, 2019, 11:23" />
     <MESSAGE value="CherryPickUp" />
     <MESSAGE value="MaxCoursesCanTake&#10;Feb 4, 2019, 11:11" />
     <MESSAGE value="GameOfLife&#10;Feb 5, 2019, 15:54" />
@@ -1041,7 +1051,8 @@
     <MESSAGE value="ProductOfArrayExceptSelf&#10;Feb 22, 2019, 15:23" />
     <MESSAGE value="SearchInRotatedSortedArray&#10;Feb 23, 2019, 09:52" />
     <MESSAGE value="LIS -- Russian Roll Envelopes&#10;Feb 23, 2019, 10:59" />
-    <option name="LAST_COMMIT_MESSAGE" value="LIS -- Russian Roll Envelopes&#10;Feb 23, 2019, 10:59" />
+    <MESSAGE value="Sudoku Solver&#10;Feb 24, 2019, 11:03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sudoku Solver&#10;Feb 24, 2019, 11:03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1089,13 +1100,13 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/OneAndZeros.java</url>
+          <url>file://$PROJECT_DIR$/src/DP/Knapsack/OneAndZeros.java</url>
           <line>70</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/PerfectSquareNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/DP/Knapsack/PerfectSquareNumber.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="26" />
@@ -1250,10 +1261,22 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Exercises/Knapsack/CoinChange2.java</url>
+          <url>file://$PROJECT_DIR$/src/DP/Knapsack/CoinChange2.java</url>
           <line>59</line>
-          <properties class="Exercises.Knapsack.CoinChange2" method="main">
+          <properties class="DP.Knapsack.CoinChange2" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="24" />
@@ -1262,62 +1285,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/CherryPickUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/DailyTemperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/MergeAndInsertIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/sortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SkyLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Others/SetMatrixZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CourseSchedule/CourseSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StructureDesigning/RangeModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1610,6 +1577,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/RussianDollEnvelopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/SudokuSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1638,21 +1626,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/RussianDollEnvelopes.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/LongestSubsequence/LongestConsecutiveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        <state relative-caret-position="348">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Backtracking/SudokuSolver.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithCooldown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="289">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithFee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/OneTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
         </state>
       </provider>
     </entry>

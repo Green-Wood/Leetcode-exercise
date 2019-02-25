@@ -25,10 +25,14 @@ dp[k, i] = max(dp[k, i - 1], prices[i] - prices[j] + dp[k - 1, j])   j belong to
 
 OneTransaction TwoTransaction都可以由dp的循环化简而来
 
+全体可用公式
+own[k, i] = max(own[k, i-1], not_own[k-1, i-1] - price)
+not_own[k, i] = max(not_own[k, i-1], own[k, i-1] + price)
+
  */
 public class KTransactions {
     public int maxProfit(int k, int[] prices) {
-        if (k > prices.length / 2) return quickSolve(prices);
+        if (k > prices.length / 2) return quickSolve(prices);        // 每天都可以交易，避免爆内存
 
         int[][] dp = new int[k + 1][prices.length];
         for (int t = 1; t <= k; t++) {
@@ -49,5 +53,69 @@ public class KTransactions {
             }
         }
         return maxProfit;
+    }
+
+
+
+    // 从1到3对空间进行简化
+    // 1   O(2N^2)
+    public int general(int k, int[] prices) {
+        if (prices.length == 0) return 0;
+        if (k > prices.length / 2) return quickSolve(prices);        // 每天都可以交易
+
+        int[][] own = new int[k + 1][prices.length];
+        int[][] not_own = new int[k + 1][prices.length];
+
+        for (int t = 1; t <= k; t++) {
+            own[t][0] = -prices[0];
+            for (int i = 1; i < prices.length; i++) {
+                own[t][i] = Math.max(own[t][i-1], not_own[t-1][i-1] - prices[i]);
+                not_own[t][i] = Math.max(not_own[t][i-1], own[t][i-1] + prices[i]);
+            }
+        }
+
+        return not_own[k][prices.length-1];
+    }
+
+    // O(N^2)
+    public int general2(int k, int[] prices) {
+        if (prices.length == 0) return 0;
+        if (k > prices.length / 2) return quickSolve(prices);        // 每天都可以交易
+
+        int[][] not_own = new int[k + 1][prices.length];
+        for (int t = 1; t <= k; t++) {
+            int own = -prices[0];
+            for (int i = 1; i < prices.length; i++) {
+                int prev_own = own;
+                own = Math.max(prev_own, not_own[t-1][i-1] - prices[i]);
+                not_own[t][i] = Math.max(not_own[t][i-1], prev_own + prices[i]);
+            }
+        }
+        return not_own[k][prices.length - 1];
+    }
+
+    // O(2N)
+    public int general3(int k, int[] prices) {
+        if (prices.length == 0) return 0;
+        if (k > prices.length / 2) return quickSolve(prices);
+
+        int[] prev_not_own = new int[prices.length];
+        int[] not_own = new int[prices.length];
+
+        for (int t = 1; t <= k; t++) {
+            int own = -prices[0];
+            for (int i = 1; i < prices.length; i++) {
+                int prev_own = own;
+                own = Math.max(prev_own, prev_not_own[i-1] - prices[i]);
+                not_own[i] = Math.max(not_own[i-1], prev_own + prices[i]);
+            }
+            System.arraycopy(not_own, 0, prev_not_own, 0, prices.length);
+        }
+
+        return not_own[prices.length - 1];
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new KTransactions().general3(2, new int[]{3, 3, 5, 0, 0, 3, 1, 4}));
     }
 }

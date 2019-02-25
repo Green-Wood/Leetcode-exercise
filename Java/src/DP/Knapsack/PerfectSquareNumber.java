@@ -1,8 +1,6 @@
-package Exercises.Knapsack;
+package DP.Knapsack;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class PerfectSquareNumber {
     public int numSquares(int n) {
