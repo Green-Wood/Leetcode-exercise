@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0ed056-d4a8-4219-9d17-1a1354f8f212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/DungeonGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/MonotoneStack/ShortestSubarraySumAtLeastK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +37,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DP/DungeonGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="178">
               <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/ShortestSubarraySumAtLeastK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,24 +72,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithCooldown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/BuyAndSellStock/AnyTransactionsWithFee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -143,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/CanJump.java" />
         <option value="$PROJECT_DIR$/src/DP/CanJump.java" />
         <option value="$PROJECT_DIR$/src/DP/JumpGame2.java" />
         <option value="$PROJECT_DIR$/src/Exercises/BinarySearch/EatingBanana.java" />
@@ -155,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/Exercises/OddEvenJump.java" />
         <option value="$PROJECT_DIR$/src/DP/OddEvenJump.java" />
         <option value="$PROJECT_DIR$/src/Exercises/SumOfSubarrayMinimal.java" />
-        <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/StockSpanner.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement1.java" />
         <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/NextGreaterElement2.java" />
@@ -194,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/TwoTransActions.java" />
         <option value="$PROJECT_DIR$/src/Exercises/BuyAndSellStock/KTransactions.java" />
         <option value="$PROJECT_DIR$/src/DP/DungeonGame.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/MonotoneStack/ShortestSubarraySumAtLeastK.java" />
       </list>
     </option>
   </component>
@@ -365,7 +368,14 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="MonotoneStack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,7 +388,7 @@
     <property name="SearchEverywhereHistoryKey" value="maxre&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/MaximalRectangle.java&#10;majori&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/Array/MajorityNumber.java&#10;lru&#9;PSI&#9;JAVA://StructureDesigning.LRUCache&#10;longestCon&#9;FILE&#9;file:///Users/greenwood/学习/Program/Project/LeetCode/Java/src/DP/LongestConsecutiveSequence.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551229955000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551232868612" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -412,7 +422,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KTransactions">
+  <component name="RunManager" selected="Application.ShortestSubarraySumAtLeastK">
     <configuration name="AnyTransactions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.BuyAndSellStock.AnyTransactions" />
       <module name="Java" />
@@ -452,12 +462,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RussianDollEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.RussianDollEnvelopes" />
+    <configuration name="ShortestSubarraySumAtLeastK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.MonotoneStack.ShortestSubarraySumAtLeastK" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="Exercises.MonotoneStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,19 +489,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RussianDollEnvelopes" />
       <item itemvalue="Application.SudokuSolver" />
       <item itemvalue="Application.AnyTransactionsWithFee" />
       <item itemvalue="Application.AnyTransactions" />
       <item itemvalue="Application.KTransactions" />
+      <item itemvalue="Application.ShortestSubarraySumAtLeastK" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestSubarraySumAtLeastK" />
         <item itemvalue="Application.KTransactions" />
         <item itemvalue="Application.AnyTransactions" />
         <item itemvalue="Application.AnyTransactionsWithFee" />
         <item itemvalue="Application.SudokuSolver" />
-        <item itemvalue="Application.RussianDollEnvelopes" />
       </list>
     </recent_temporary>
   </component>
@@ -614,14 +624,7 @@
       <workItem from="1550749199784" duration="5907000" />
       <workItem from="1550974638177" duration="2973000" />
       <workItem from="1551061004340" duration="7184000" />
-      <workItem from="1551170065140" duration="1717000" />
-    </task>
-    <task id="LOCAL-00043" summary="SplitArrayLargestSum&#10;Jan 13, 2019, 23:12">
-      <created>1547392342549</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1547392342549</updated>
+      <workItem from="1551170065140" duration="3272000" />
     </task>
     <task id="LOCAL-00044" summary="CountBSTNode&#10;Jan 14, 2019, 10:24">
       <created>1547432664894</created>
@@ -959,17 +962,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551079272507</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Dungeon Game&#10;Feb 27, 2019, 09:32">
+      <created>1551231153688</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1551231153688</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244770000" />
+    <option name="totallyTimeSpent" value="246325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1007,7 +1017,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MaxCoursesCanTake&#10;Feb 4, 2019, 11:11" />
     <MESSAGE value="GameOfLife&#10;Feb 5, 2019, 15:54" />
     <MESSAGE value="HouseRob&#10;Feb 6, 2019, 11:02" />
     <MESSAGE value="JumpGame&#10;Feb 7, 2019, 10:21" />
@@ -1032,7 +1041,8 @@
     <MESSAGE value="LIS -- Russian Roll Envelopes&#10;Feb 23, 2019, 10:59" />
     <MESSAGE value="Sudoku Solver&#10;Feb 24, 2019, 11:03" />
     <MESSAGE value="Buy And Sell Stock&#10;Feb 25, 2019, 15:21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Buy And Sell Stock&#10;Feb 25, 2019, 15:21" />
+    <MESSAGE value="Dungeon Game&#10;Feb 27, 2019, 09:32" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dungeon Game&#10;Feb 27, 2019, 09:32" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1253,6 +1263,12 @@
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/MonotoneStack/ShortestSubarraySumAtLeastK.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DP/Knapsack/CoinChange2.java</url>
           <line>59</line>
@@ -1265,25 +1281,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Calendar/MyCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph/UnionFind/FriendCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graph/ShortestBridge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -1650,8 +1647,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DungeonGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="178">
           <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/SumOfSubarrayMinimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/MonotoneStack/ShortestSubarraySumAtLeastK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
