@@ -18,6 +18,8 @@ import java.util.Arrays;
 2、向右寻找大于逆序数的最小数
 3、交换
 4、使逆序数之后的数升序排序
+
+类似于NextPermutation
  */
 public class NextGreaterElement3 {
     public int nextGreaterElement(int n) {
